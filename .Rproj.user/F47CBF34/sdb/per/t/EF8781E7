@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1448832730693.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EF8781E7",
+    "lastKnownWriteTime" : 0,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "jbfaz555tg",
+        "caption" : "milan_qt.f",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=milan_qt.f&cache_key=jbfaz555tg",
+        "displayedObservations" : 6897,
+        "environment" : "",
+        "object" : "milan_qt.f",
+        "totalObservations" : 6897,
+        "variables" : 18
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
