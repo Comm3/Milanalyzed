@@ -85,8 +85,7 @@ milan_qt.f <- milan_qt %>%
 milan_qt.wgs84 <- spTransform(milan_qt, CRS("+init=epsg:4326"))
 milan_qt.wgs84.f <- fortify(milan_qt.wgs84, region = "ID_NIL") %>%
   merge(milan_qt.wgs84@data, by.x = "id", by.y = "ID_NIL") %>%
-  left_join(db_synt,
-            by = "id")
+  left_join(db_synt, by = "id")
 
 milan_zone <- readOGR(dsn = "Dati/zone_dec", layer = "ZoneDecentramento")
 milan_zone.wgs84 <- spTransform(milan_zone, CRS("+init=epsg:4326"))
@@ -105,40 +104,3 @@ milan_zone.wgs84.f <- fortify(milan_zone.wgs84, region = "ZONADEC") %>%
 
 # First approach
 
-library(ggmap)
-
-# b <- bbox(milan_qt.wgs84)
-b <- bbox(milan_zone.wgs84)
-b[1, ] <- (b[1, ] - mean(b[1, ])) * 1.2 + mean(b[1, ])
-b[2, ] <- (b[2, ] - mean(b[2, ])) * 1.2 + mean(b[2, ])
-# lnd.b1 <- ggmap(get_map(location = b))
-
-
-
-# Second approach
-# lnd.stamen <- ggmap(get_map(location = b, source = "stamen", maptype = "toner", 
-# crop = T))
-lnd.gmaps <- ggmap(get_map(location = b, source = "google", maptype = "roadmap", 
-    crop = T))
-lnd.osm <- ggmap(get_map(location = b, source = "osm", maptype = "roadmap", 
-                           crop = T))
-
-# library(scales)
-
-lnd.osm + 
-  geom_polygon(data = milan_qt.wgs84.f, 
-              aes(x = long, y = lat, group = group, 
-                  fill = cut(rap_nd, breaks = c(0,1,2,Inf), include.lowest = TRUE, right = FALSE, labels = c("Meno di 1", "Tra 1 e 2", "Oltre 2")),
-                  alpha = tot_nascite
-                  ), 
-              # alpha = 0.5, 
-              colour = "black", size = 0.25) + 
-  geom_polygon(data = milan_zone.wgs84.f,
-               aes(long, lat, group = group),
-               fill = NA, color = "black", size = 1
-  ) +
-  labs(x = "Longitudine", y = "Latitudine", fill = "Nascite per decesso",
-       alpha = "Nascite 2014") + 
-  ggtitle("Tasso di natalità 2003/2014") +
-  # scale_fill_distiller(palette = "Greens", breaks = pretty_breaks(n = 5)) +
-  guides(fill = guide_legend(reverse = TRUE))

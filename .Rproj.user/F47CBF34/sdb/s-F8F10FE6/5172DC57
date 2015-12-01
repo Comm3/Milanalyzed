@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1449009074103.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5172DC57",
+    "lastKnownWriteTime" : 8028082369614278767,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "2gyoxvr9cb",
+        "caption" : "popolazione_qt",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=popolazione_qt&cache_key=2gyoxvr9cb",
+        "displayedObservations" : "88",
+        "environment" : "",
+        "object" : "popolazione_qt",
+        "totalObservations" : "88",
+        "variables" : "174"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

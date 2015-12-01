@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1449004478925.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DA373D32",
+    "lastKnownWriteTime" : 0,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "uhrvxfqdtm",
+        "caption" : "popolazione",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=popolazione&cache_key=uhrvxfqdtm",
+        "displayedObservations" : "410845",
+        "environment" : "",
+        "object" : "popolazione",
+        "totalObservations" : "410845",
+        "variables" : "20"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
