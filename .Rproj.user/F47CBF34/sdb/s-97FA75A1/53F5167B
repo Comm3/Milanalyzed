@@ -1,0 +1,18 @@
+{
+    "contents" : "# library(maptools)\nlibrary(dplyr)\nlibrary(tidyr)\nlibrary(stringdist)\nlibrary(rgdal)\nlibrary(ggplot2)\n\npopolazione <- read.csv(file = \"Dati/dataset/pop_sto_quartiere_1999-2014.csv\", \n                    header = TRUE, \n                    sep = \";\", \n                    fileEncoding = \"latin1\") %>%\n  mutate(X2014 = as.numeric(X2014), Quartiere = as.character(Quartiere))\n\npopolazione_qt <- select(popolazione, Quartiere, Cittadinanza, X2014) %>%\n  group_by(Quartiere, Cittadinanza) %>%\n  summarise(pop = sum(X2014)) %>%\n  spread(Cittadinanza, pop) %>%\n  replace(is.na(.), 0) %>%\n  \n  popolazione_qt <-   popolazione_qt %>% mutate(sum = rowSums(.[2:4]))\nncol(.)\n\npopolazione_subset <- select(popolazione, Quartiere, Cittadinanza, X2014) %>%\n  group_by(Quartiere, Cittadinanza) %>%\n  summarise(tot = sum(X2014)) %>%\n  filter(Cittadinanza != \"Italia\") %>%\n  group_by(Quartiere) %>%\n  filter(tot == max(tot)) %>%\n  inner_join(popolazione_qt, by = \"Quartiere\") %>%\n  mutate(prc = round(tot / tot_qt * 100))\n\npopolazione_subset <- \n  quartieri_dict %>%\n  mutate(Quartiere = as.character(q_synt)) %>%\n  select(id, Quartiere) %>%\n    inner_join(\n      popolazione_subset\n      , by = \"Quartiere\") %>%\n  mutate(id = as.character(id))\n\nwrite.csv2(popolazione_subset, sep = \";\",row.names=FALSE, file = \"nazionalita_quartiere.csv\")\n\nnaz_dict <- read.csv(file = \"Dati/dataset/nazionalita_quartiere.csv\", header = TRUE, sep = \";\")\n\nnaz_dict$Area_geografica <-  sapply(levels(naz_dict$Nazionalita),\n       # Custom function\n       str_match,\n       words = levels(popolazione_subset$Cittadinanza)\n       )\n\npopolazione_subset <- inner_join(popolazione_subset, naz_dict, by = \"Cittadinanza\")\n\n\nmilan_qt.wgs84.f <- left_join(milan_qt.wgs84.f, popolazione_subset, by = \"id\")\n\n",
+    "created" : 1449003346288.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3393225893",
+    "id" : "53F5167B",
+    "lastKnownWriteTime" : 1449089910,
+    "path" : "~/Development/Milanalytics/Scripts/popolazione.R",
+    "project_path" : "Scripts/popolazione.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

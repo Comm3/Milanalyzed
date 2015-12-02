@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1449089894940.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "851A07E",
+    "lastKnownWriteTime" : 0,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "jsek88twvj",
+        "caption" : "popolazione_subset",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=popolazione_subset&cache_key=jsek88twvj",
+        "displayedObservations" : 87,
+        "environment" : "",
+        "object" : "popolazione_subset",
+        "totalObservations" : 87,
+        "variables" : 9
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

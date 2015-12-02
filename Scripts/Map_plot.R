@@ -44,7 +44,7 @@ lnd.osm +
 lnd.osm + 
   geom_polygon(data = milan_qt.wgs84.f, 
                aes(x = long, y = lat, group = group, 
-                   fill = Cittadinanza,
+                   fill = zona_geografica,
                    alpha = prc
                ), 
                # alpha = 0.5, 

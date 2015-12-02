@@ -38,5 +38,18 @@ popolazione_subset <-
       , by = "Quartiere") %>%
   mutate(id = as.character(id))
 
+write.csv2(popolazione_subset, sep = ";",row.names=FALSE, file = "nazionalita_quartiere.csv")
+
+naz_dict <- read.csv(file = "Dati/dataset/nazionalita_quartiere.csv", header = TRUE, sep = ";")
+
+naz_dict$Area_geografica <-  sapply(levels(naz_dict$Nazionalita),
+       # Custom function
+       str_match,
+       words = levels(popolazione_subset$Cittadinanza)
+       )
+
+popolazione_subset <- inner_join(popolazione_subset, naz_dict, by = "Cittadinanza")
+
+
 milan_qt.wgs84.f <- left_join(milan_qt.wgs84.f, popolazione_subset, by = "id")
 
