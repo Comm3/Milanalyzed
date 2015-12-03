@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1449177992044.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "730BF551",
+    "lastKnownWriteTime" : 5134603312,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "cigqjpa54r",
+        "caption" : "milan_qt@data",
+        "contentUrl" : "grid_resource/gridviewer.html?env=_rs_no_env&obj=&cache_key=cigqjpa54r",
+        "displayedObservations" : "88",
+        "environment" : "_rs_no_env",
+        "object" : "",
+        "totalObservations" : "88",
+        "variables" : "14"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

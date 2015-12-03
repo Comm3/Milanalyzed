@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1449174275677.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F13719DF",
+    "lastKnownWriteTime" : 4294967297,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "t1jz1e8vin",
+        "caption" : "cittadinanza",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=cittadinanza&cache_key=t1jz1e8vin",
+        "displayedObservations" : "5764",
+        "environment" : "",
+        "object" : "cittadinanza",
+        "totalObservations" : "5764",
+        "variables" : "174"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

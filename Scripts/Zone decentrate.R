@@ -5,11 +5,36 @@ library(rgdal)
 library(ggplot2)
 
 
-# Loading data from CSV
+
+# Deaths ------------------------------------------------------------------
+
+
 decessi <- read.csv(file = "Dati/dataset/Morti_quartiere_2003_2014.csv", 
                     header = TRUE, 
                     sep = ";", 
                     fileEncoding = "latin1")
+
+decessi$Numerosità <- as.numeric(decessi$Numerosità)
+levels(decessi$Quartiere) <- c(levels(decessi$Quartiere), "Parco Sempione")
+decessi$Quartiere[decessi$Quartiere == ""] <- "Parco Sempione"
+
+# Colonna con i nomi dei quartieri presenti in tabella
+milan_qt@data$DB_ID_NIL <- sapply(as.character(zone_sp@data$NIL),
+                                  # Custom function
+                                  str_match,
+                                  words = as.character(unique(decessi$Quartiere)))
+
+
+milan_qt@data <- filter(decessi, Luogo_decesso == "Milano")  %>%
+  select(Anno_evento, Quartiere, Numerosità) %>%
+  group_by(Quartiere) %>%
+  summarize( decessi = sum(Numerosità)) %>%
+  inner_join(milan_qt@data, .,  by = c("DB_ID_NIL" = "Quartiere"))
+
+
+
+# Births ------------------------------------------------------------------
+
 
 nascite <- read.csv(file = "Dati/dataset/Nati_quartiere_2003_2014.csv", 
                     header = TRUE, 
@@ -19,88 +44,22 @@ nascite <- read.csv(file = "Dati/dataset/Nati_quartiere_2003_2014.csv",
 # Converting to attribute to same type
 nascite$Numerosità <- as.numeric(nascite$Numerosità)
 
-# Adding missing label "Parco Sempione"
-levels(decessi$Quartiere) <- c(levels(decessi$Quartiere), "Parco Sempione")
-decessi$Quartiere[decessi$Quartiere == ""] <- "Parco Sempione"
-
 levels(nascite$Quartiere) <- c(levels(nascite$Quartiere), "Parco Sempione")
 nascite$Quartiere[nascite$Quartiere == ""] <- "Parco Sempione"
 
-# Syntesis of the data
-decessi_synt <- decessi %>%
-  arrange(Quartiere) %>%
-  filter(Luogo_decesso == "Milano")  %>%
-  select(Anno_evento, Quartiere, Numerosità) %>%
-  group_by(Quartiere) %>%
-  summarize( tot_decessi = sum(Numerosità))
-  
-
-nascite_synt <- nascite %>%
+milan_qt@data <- nascite %>%
   filter(Luogo_nascita == "Milano")  %>%
   select(Anno_evento, Quartiere, Numerosità) %>%
   group_by(Quartiere) %>%
-  summarize( tot_nascite = sum(Numerosità)) %>%
-  arrange(Quartiere)
+  summarize(nascite = sum(Numerosità)) %>%
+  inner_join(milan_qt@data, .,  by = c("DB_ID_NIL" = "Quartiere"))
 
 
-# Dictionary of the different "quartieri" labels
-quartieri_dict <- data_frame(id = zone_sp@data$ID_NIL,
-                             quartiere = zone_sp@data$NIL) %>%
-  arrange(quartiere)
-
-# Mapping different quartieri label between different databases
-quartieri_map <- data_frame(q_synt = db_synt$Quartiere,
-                            quartiere = factor(
-                              sapply(db_synt$Quartiere,
-                                     # Custom function
-                                     str_match,
-                                     words = levels(quartieri_dict$quartiere))
-                              )
-                            )
-
-# Finalizing the quartieri dictioanry
-quartieri_dict <- quartieri_dict %>%
-  inner_join(quartieri_map, by = "quartiere")
-
-# Joined syntesis
-db_synt <- inner_join(decessi_synt, nascite_synt, by = c("Quartiere")) %>%
-  mutate(rap_nd = tot_nascite/tot_decessi,
-         tot_ricambio = tot_nascite - tot_decessi,
-         rap_nd_round = round(rap_nd))
-
-db_synt <- quartieri_dict %>%
-  select(id, Quartiere = q_synt) %>%
-  inner_join(db_synt, by = "Quartiere") %>%
-  mutate(id = as.character(id))
+# Suddivisione per sesso ---------------------------------------------------------------
 
 
-# Setting the map
-
-milan_qt <- readOGR(dsn = "Dati/quartieri", layer = "NILZone")
-milan_qt.f <- milan_qt %>%
-  fortify(region = "ID_NIL") %>%
-  merge(milan_qt@data, by.x = "id", by.y = "ID_NIL") %>%
-  left_join(db_synt, by = "id")
-
-milan_qt.wgs84 <- spTransform(milan_qt, CRS("+init=epsg:4326"))
-milan_qt.wgs84.f <- fortify(milan_qt.wgs84, region = "ID_NIL") %>%
-  merge(milan_qt.wgs84@data, by.x = "id", by.y = "ID_NIL") %>%
-  left_join(db_synt, by = "id")
-
-milan_zone <- readOGR(dsn = "Dati/zone_dec", layer = "ZoneDecentramento")
-milan_zone.wgs84 <- spTransform(milan_zone, CRS("+init=epsg:4326"))
-milan_zone.wgs84.f <- fortify(milan_zone.wgs84, region = "ZONADEC") %>%
-  merge(milan_zone@data, by.x = "id", by.y = "ZONADEC")
 
 
-# Simple map
-# Map <- ggplot(milan_qt.f, aes(long, lat, group = group, fill = as.factor(rap_nd_round))) +
-#   geom_polygon() +
-#   coord_equal() +
-#   labs(x = "Dist. Latitudine (m)", y = "Dist. Longitudine (m)", fill = "Nascite per decessi") + 
-#   ggtitle("Tasso di natalità")
-# 
-# Map + scale_fill_discrete()
-
-# First approach
+# Rapporto tra nascite e decessi
+milan_qt@data <- mutate(milan_qt@data, nascite_x_decesso = nascite/decessi)
 
