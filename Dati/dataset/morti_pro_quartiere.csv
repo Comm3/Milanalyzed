@@ -1,0 +1,2801 @@
+Anno;Quartiere;Genere;Ipotesi_alta;Ipotesi_media;Ipotesi_bassa
+2013;Adriano;Femmine;41;41;41
+2013;Adriano;Maschi;38;38;38
+2013;Affori;Femmine;99;99;99
+2013;Affori;Maschi;98;98;98
+2013;Baggio;Femmine;169;169;169
+2013;Baggio;Maschi;166;165;165
+2013;Bande Nere;Femmine;352;352;352
+2013;Bande Nere;Maschi;296;296;296
+2013;Barona;Femmine;113;113;113
+2013;Barona;Maschi;99;99;99
+2013;Bicocca;Femmine;21;21;21
+2013;Bicocca;Maschi;21;21;21
+2013;Bovisa;Femmine;53;53;53
+2013;Bovisa;Maschi;47;47;47
+2013;Bovisasca;Femmine;44;44;44
+2013;Bovisasca;Maschi;38;38;38
+2013;Brera;Femmine;97;97;97
+2013;Brera;Maschi;90;90;90
+2013;Bruzzano;Femmine;45;45;45
+2013;Bruzzano;Maschi;55;55;55
+2013;Buenos Aires - Venezia;Femmine;385;385;385
+2013;Buenos Aires - Venezia;Maschi;341;341;341
+2013;Centrale;Femmine;85;85;85
+2013;Centrale;Maschi;79;79;79
+2013;Città Studi;Femmine;266;266;265
+2013;Città Studi;Maschi;204;204;204
+2013;Comasina;Femmine;48;48;48
+2013;Comasina;Maschi;40;40;40
+2013;Corsica;Femmine;125;125;125
+2013;Corsica;Maschi;103;103;103
+2013;De Angeli - Monte Rosa;Femmine;135;135;135
+2013;De Angeli - Monte Rosa;Maschi;121;121;121
+2013;Dergano;Femmine;83;83;83
+2013;Dergano;Maschi;84;84;84
+2013;Duomo;Femmine;85;85;85
+2013;Duomo;Maschi;83;83;83
+2013;Ex OM - Morivione;Femmine;54;54;54
+2013;Ex OM - Morivione;Maschi;26;26;26
+2013;Farini;Femmine;8;8;8
+2013;Farini;Maschi;6;6;6
+2013;Forze Armate;Femmine;139;139;139
+2013;Forze Armate;Maschi;118;118;118
+2013;Gallaratese;Femmine;229;229;229
+2013;Gallaratese;Maschi;248;248;248
+2013;Garibaldi Repubblica;Femmine;28;28;28
+2013;Garibaldi Repubblica;Maschi;16;16;16
+2013;Ghisolfa;Femmine;104;104;104
+2013;Ghisolfa;Maschi;85;85;85
+2013;Giambellino;Femmine;181;181;181
+2013;Giambellino;Maschi;155;155;155
+2013;Gratosoglio - Ticinello;Femmine;99;99;99
+2013;Gratosoglio - Ticinello;Maschi;115;115;115
+2013;Greco;Femmine;83;83;83
+2013;Greco;Maschi;75;75;75
+2013;Guastalla;Femmine;82;82;82
+2013;Guastalla;Maschi;80;80;80
+2013;Isola;Femmine;111;111;111
+2013;Isola;Maschi;95;95;95
+2013;Lambrate;Femmine;48;48;48
+2013;Lambrate;Maschi;44;44;44
+2013;Lodi - Corvetto;Femmine;242;242;242
+2013;Lodi - Corvetto;Maschi;196;196;196
+2013;Lorenteggio;Femmine;103;103;103
+2013;Lorenteggio;Maschi;81;81;81
+2013;Loreto;Femmine;215;215;215
+2013;Loreto;Maschi;190;190;190
+2013;Maciachini - Maggiolina;Femmine;169;169;169
+2013;Maciachini - Maggiolina;Maschi;135;135;135
+2013;Magenta - S. Vittore;Femmine;98;98;98
+2013;Magenta - S. Vittore;Maschi;84;84;84
+2013;Maggiore - Musocco;Femmine;21;21;21
+2013;Maggiore - Musocco;Maschi;24;24;24
+2013;Mecenate;Femmine;143;143;143
+2013;Mecenate;Maschi;138;138;138
+2013;Navigli;Femmine;86;86;86
+2013;Navigli;Maschi;65;65;65
+2013;Niguarda - Cà Granda;Femmine;248;248;248
+2013;Niguarda - Cà Granda;Maschi;221;221;221
+2013;Ortomercato;Femmine;22;22;22
+2013;Ortomercato;Maschi;17;17;17
+2013;Padova;Femmine;203;203;203
+2013;Padova;Maschi;190;190;190
+2013;Pagano;Femmine;103;103;103
+2013;Pagano;Maschi;89;89;89
+2013;Parco Lambro - Cimiano;Femmine;150;150;150
+2013;Parco Lambro - Cimiano;Maschi;122;122;122
+2013;Parco Monlué - Ponte Lambro;Femmine;6;6;6
+2013;Parco Monlué - Ponte Lambro;Maschi;6;6;6
+2013;Porta Romana;Femmine;81;81;81
+2013;Porta Romana;Maschi;69;69;69
+2013;Portello;Femmine;55;55;55
+2013;Portello;Maschi;51;51;51
+2013;QT 8;Femmine;32;32;32
+2013;QT 8;Maschi;22;22;22
+2013;Quarto Cagnino;Femmine;37;37;37
+2013;Quarto Cagnino;Maschi;45;45;45
+2013;Quarto Oggiaro;Femmine;186;186;186
+2013;Quarto Oggiaro;Maschi;161;161;160
+2013;Quinto Romano;Femmine;17;17;17
+2013;Quinto Romano;Maschi;20;20;20
+2013;Ripamonti;Femmine;60;60;60
+2013;Ripamonti;Maschi;63;63;63
+2013;Rogoredo;Femmine;25;25;25
+2013;Rogoredo;Maschi;28;28;28
+2013;Ronchetto S/N;Femmine;69;69;69
+2013;Ronchetto S/N;Maschi;76;76;76
+2013;S. Cristoforo;Femmine;60;60;60
+2013;S. Cristoforo;Maschi;55;55;55
+2013;S. Siro;Femmine;61;61;61
+2013;S. Siro;Maschi;65;65;65
+2013;Sarpi;Femmine;174;174;174
+2013;Sarpi;Maschi;147;147;147
+2013;Scalo Romana;Femmine;31;31;31
+2013;Scalo Romana;Maschi;39;39;39
+2013;Selinunte;Femmine;170;170;170
+2013;Selinunte;Maschi;119;119;119
+2013;Stadera;Femmine;163;163;163
+2013;Stadera;Maschi;151;151;151
+2013;Tibaldi;Femmine;71;71;71
+2013;Tibaldi;Maschi;61;61;61
+2013;Ticinese;Femmine;95;95;95
+2013;Ticinese;Maschi;87;87;87
+2013;Tortona;Femmine;85;85;85
+2013;Tortona;Maschi;77;77;77
+2013;Trenno;Femmine;9;9;9
+2013;Trenno;Maschi;18;18;18
+2013;Umbria - Molise;Femmine;139;139;139
+2013;Umbria - Molise;Maschi;111;111;111
+2013;Vigentina;Femmine;83;83;83
+2013;Vigentina;Maschi;72;72;72
+2013;Villapizzone;Femmine;250;250;250
+2013;Villapizzone;Maschi;205;204;204
+2013;Vle Monza;Femmine;139;139;139
+2013;Vle Monza;Maschi;129;129;129
+2013;Washington;Femmine;174;174;174
+2013;Washington;Maschi;153;153;153
+2013;XXII Marzo;Femmine;198;198;198
+2013;XXII Marzo;Maschi;166;166;165
+2013;Quartieri residuali;Femmine;16;16;16
+2013;Quartieri residuali;Maschi;8;8;8
+2014;Adriano;Femmine;39;39;39
+2014;Adriano;Maschi;41;41;41
+2014;Affori;Femmine;99;99;99
+2014;Affori;Maschi;101;101;100
+2014;Baggio;Femmine;175;175;175
+2014;Baggio;Maschi;163;163;163
+2014;Bande Nere;Femmine;349;349;349
+2014;Bande Nere;Maschi;293;293;293
+2014;Barona;Femmine;114;114;114
+2014;Barona;Maschi;96;96;96
+2014;Bicocca;Femmine;22;22;22
+2014;Bicocca;Maschi;20;20;20
+2014;Bovisa;Femmine;54;54;54
+2014;Bovisa;Maschi;50;50;50
+2014;Bovisasca;Femmine;43;43;43
+2014;Bovisasca;Maschi;42;42;42
+2014;Brera;Femmine;96;96;96
+2014;Brera;Maschi;89;89;89
+2014;Bruzzano;Femmine;44;44;44
+2014;Bruzzano;Maschi;52;52;52
+2014;Buenos Aires - Venezia;Femmine;376;376;376
+2014;Buenos Aires - Venezia;Maschi;337;337;337
+2014;Centrale;Femmine;88;88;88
+2014;Centrale;Maschi;77;77;77
+2014;Città Studi;Femmine;259;258;258
+2014;Città Studi;Maschi;200;200;200
+2014;Comasina;Femmine;47;46;46
+2014;Comasina;Maschi;40;40;40
+2014;Corsica;Femmine;125;125;125
+2014;Corsica;Maschi;101;101;101
+2014;De Angeli - Monte Rosa;Femmine;135;135;135
+2014;De Angeli - Monte Rosa;Maschi;123;123;123
+2014;Dergano;Femmine;83;83;83
+2014;Dergano;Maschi;87;87;87
+2014;Duomo;Femmine;84;83;83
+2014;Duomo;Maschi;80;80;80
+2014;Ex OM - Morivione;Femmine;52;52;52
+2014;Ex OM - Morivione;Maschi;25;25;25
+2014;Farini;Femmine;7;7;7
+2014;Farini;Maschi;6;6;6
+2014;Forze Armate;Femmine;140;140;140
+2014;Forze Armate;Maschi;121;121;121
+2014;Gallaratese;Femmine;234;234;234
+2014;Gallaratese;Maschi;245;245;245
+2014;Garibaldi Repubblica;Femmine;26;26;26
+2014;Garibaldi Repubblica;Maschi;16;16;16
+2014;Ghisolfa;Femmine;103;103;103
+2014;Ghisolfa;Maschi;83;83;83
+2014;Giambellino;Femmine;181;181;181
+2014;Giambellino;Maschi;152;152;152
+2014;Gratosoglio - Ticinello;Femmine;99;99;99
+2014;Gratosoglio - Ticinello;Maschi;117;117;117
+2014;Greco;Femmine;84;84;84
+2014;Greco;Maschi;74;74;74
+2014;Guastalla;Femmine;83;83;83
+2014;Guastalla;Maschi;76;76;76
+2014;Isola;Femmine;114;114;114
+2014;Isola;Maschi;95;95;95
+2014;Lambrate;Femmine;48;48;48
+2014;Lambrate;Maschi;43;43;43
+2014;Lodi - Corvetto;Femmine;240;240;239
+2014;Lodi - Corvetto;Maschi;197;195;195
+2014;Lorenteggio;Femmine;99;99;99
+2014;Lorenteggio;Maschi;83;83;83
+2014;Loreto;Femmine;217;217;217
+2014;Loreto;Maschi;192;192;192
+2014;Maciachini - Maggiolina;Femmine;168;168;168
+2014;Maciachini - Maggiolina;Maschi;131;131;131
+2014;Magenta - S. Vittore;Femmine;95;95;95
+2014;Magenta - S. Vittore;Maschi;81;81;81
+2014;Maggiore - Musocco;Femmine;21;21;21
+2014;Maggiore - Musocco;Maschi;27;27;27
+2014;Mecenate;Femmine;142;142;142
+2014;Mecenate;Maschi;138;138;138
+2014;Navigli;Femmine;82;82;82
+2014;Navigli;Maschi;65;65;65
+2014;Niguarda - Cà Granda;Femmine;246;246;246
+2014;Niguarda - Cà Granda;Maschi;217;217;217
+2014;Ortomercato;Femmine;23;23;23
+2014;Ortomercato;Maschi;18;18;18
+2014;Padova;Femmine;207;207;207
+2014;Padova;Maschi;189;189;189
+2014;Pagano;Femmine;98;98;98
+2014;Pagano;Maschi;87;87;87
+2014;Parco Lambro - Cimiano;Femmine;151;151;151
+2014;Parco Lambro - Cimiano;Maschi;129;129;129
+2014;Parco Monlué - Ponte Lambro;Femmine;5;5;5
+2014;Parco Monlué - Ponte Lambro;Maschi;7;7;7
+2014;Porta Romana;Femmine;81;81;81
+2014;Porta Romana;Maschi;66;66;66
+2014;Portello;Femmine;54;54;54
+2014;Portello;Maschi;47;47;47
+2014;QT 8;Femmine;32;32;32
+2014;QT 8;Maschi;22;22;22
+2014;Quarto Cagnino;Femmine;39;39;39
+2014;Quarto Cagnino;Maschi;47;47;47
+2014;Quarto Oggiaro;Femmine;189;189;189
+2014;Quarto Oggiaro;Maschi;159;159;158
+2014;Quinto Romano;Femmine;17;17;17
+2014;Quinto Romano;Maschi;18;18;18
+2014;Ripamonti;Femmine;60;60;60
+2014;Ripamonti;Maschi;63;63;63
+2014;Rogoredo;Femmine;25;25;25
+2014;Rogoredo;Maschi;28;27;27
+2014;Ronchetto S/N;Femmine;68;68;68
+2014;Ronchetto S/N;Maschi;78;78;78
+2014;S. Cristoforo;Femmine;60;60;60
+2014;S. Cristoforo;Maschi;57;57;57
+2014;S. Siro;Femmine;57;57;57
+2014;S. Siro;Maschi;63;63;63
+2014;Sarpi;Femmine;170;170;170
+2014;Sarpi;Maschi;144;144;144
+2014;Scalo Romana;Femmine;31;31;31
+2014;Scalo Romana;Maschi;40;40;40
+2014;Selinunte;Femmine;168;168;168
+2014;Selinunte;Maschi;118;118;118
+2014;Stadera;Femmine;166;166;166
+2014;Stadera;Maschi;153;153;153
+2014;Tibaldi;Femmine;72;72;72
+2014;Tibaldi;Maschi;57;57;57
+2014;Ticinese;Femmine;97;97;97
+2014;Ticinese;Maschi;86;86;86
+2014;Tortona;Femmine;85;85;85
+2014;Tortona;Maschi;73;73;73
+2014;Trenno;Femmine;10;10;10
+2014;Trenno;Maschi;18;18;18
+2014;Umbria - Molise;Femmine;137;137;137
+2014;Umbria - Molise;Maschi;106;106;106
+2014;Vigentina;Femmine;80;80;80
+2014;Vigentina;Maschi;70;70;70
+2014;Villapizzone;Femmine;249;249;249
+2014;Villapizzone;Maschi;200;200;200
+2014;Vle Monza;Femmine;138;138;138
+2014;Vle Monza;Maschi;130;129;129
+2014;Washington;Femmine;176;175;175
+2014;Washington;Maschi;146;146;146
+2014;XXII Marzo;Femmine;193;193;193
+2014;XXII Marzo;Maschi;162;161;161
+2014;Quartieri residuali;Femmine;14;14;14
+2014;Quartieri residuali;Maschi;7;7;7
+2015;Adriano;Femmine;37;37;37
+2015;Adriano;Maschi;38;38;38
+2015;Affori;Femmine;103;103;103
+2015;Affori;Maschi;101;101;100
+2015;Baggio;Femmine;172;172;172
+2015;Baggio;Maschi;163;163;163
+2015;Bande Nere;Femmine;339;339;339
+2015;Bande Nere;Maschi;283;283;283
+2015;Barona;Femmine;110;110;110
+2015;Barona;Maschi;99;99;99
+2015;Bicocca;Femmine;21;21;21
+2015;Bicocca;Maschi;18;18;18
+2015;Bovisa;Femmine;51;51;51
+2015;Bovisa;Maschi;48;48;48
+2015;Bovisasca;Femmine;42;42;42
+2015;Bovisasca;Maschi;40;40;40
+2015;Brera;Femmine;92;92;92
+2015;Brera;Maschi;86;85;85
+2015;Bruzzano;Femmine;45;45;45
+2015;Bruzzano;Maschi;54;54;54
+2015;Buenos Aires - Venezia;Femmine;370;370;370
+2015;Buenos Aires - Venezia;Maschi;332;332;332
+2015;Centrale;Femmine;85;85;85
+2015;Centrale;Maschi;72;72;72
+2015;Città Studi;Femmine;251;250;250
+2015;Città Studi;Maschi;194;194;194
+2015;Comasina;Femmine;47;47;47
+2015;Comasina;Maschi;38;39;39
+2015;Corsica;Femmine;124;124;124
+2015;Corsica;Maschi;100;100;100
+2015;De Angeli - Monte Rosa;Femmine;130;130;130
+2015;De Angeli - Monte Rosa;Maschi;119;119;119
+2015;Dergano;Femmine;84;84;84
+2015;Dergano;Maschi;86;86;86
+2015;Duomo;Femmine;81;81;81
+2015;Duomo;Maschi;78;78;78
+2015;Ex OM - Morivione;Femmine;52;52;52
+2015;Ex OM - Morivione;Maschi;28;28;28
+2015;Farini;Femmine;6;6;6
+2015;Farini;Maschi;6;6;6
+2015;Forze Armate;Femmine;137;137;137
+2015;Forze Armate;Maschi;123;123;123
+2015;Gallaratese;Femmine;233;233;233
+2015;Gallaratese;Maschi;246;246;246
+2015;Garibaldi Repubblica;Femmine;29;29;29
+2015;Garibaldi Repubblica;Maschi;15;15;15
+2015;Ghisolfa;Femmine;100;100;100
+2015;Ghisolfa;Maschi;81;81;81
+2015;Giambellino;Femmine;179;179;179
+2015;Giambellino;Maschi;149;149;149
+2015;Gratosoglio - Ticinello;Femmine;102;102;102
+2015;Gratosoglio - Ticinello;Maschi;115;115;115
+2015;Greco;Femmine;83;83;83
+2015;Greco;Maschi;75;75;75
+2015;Guastalla;Femmine;82;82;82
+2015;Guastalla;Maschi;75;75;75
+2015;Isola;Femmine;111;111;111
+2015;Isola;Maschi;92;92;92
+2015;Lambrate;Femmine;50;50;50
+2015;Lambrate;Maschi;43;43;43
+2015;Lodi - Corvetto;Femmine;239;239;238
+2015;Lodi - Corvetto;Maschi;190;189;189
+2015;Lorenteggio;Femmine;99;99;99
+2015;Lorenteggio;Maschi;80;80;80
+2015;Loreto;Femmine;214;213;213
+2015;Loreto;Maschi;186;185;185
+2015;Maciachini - Maggiolina;Femmine;166;166;166
+2015;Maciachini - Maggiolina;Maschi;128;128;128
+2015;Magenta - S. Vittore;Femmine;92;92;92
+2015;Magenta - S. Vittore;Maschi;77;77;77
+2015;Maggiore - Musocco;Femmine;21;21;21
+2015;Maggiore - Musocco;Maschi;25;25;25
+2015;Mecenate;Femmine;141;141;141
+2015;Mecenate;Maschi;136;136;136
+2015;Navigli;Femmine;80;80;80
+2015;Navigli;Maschi;61;61;61
+2015;Niguarda - Cà Granda;Femmine;244;245;245
+2015;Niguarda - Cà Granda;Maschi;215;215;215
+2015;Ortomercato;Femmine;22;22;22
+2015;Ortomercato;Maschi;17;17;17
+2015;Padova;Femmine;204;203;203
+2015;Padova;Maschi;183;183;183
+2015;Pagano;Femmine;94;94;94
+2015;Pagano;Maschi;82;82;82
+2015;Parco Lambro - Cimiano;Femmine;148;148;148
+2015;Parco Lambro - Cimiano;Maschi;122;122;122
+2015;Parco Monlué - Ponte Lambro;Femmine;6;6;6
+2015;Parco Monlué - Ponte Lambro;Maschi;7;7;7
+2015;Porta Romana;Femmine;79;79;79
+2015;Porta Romana;Maschi;67;67;67
+2015;Portello;Femmine;52;52;52
+2015;Portello;Maschi;46;47;47
+2015;QT 8;Femmine;32;32;32
+2015;QT 8;Maschi;21;21;21
+2015;Quarto Cagnino;Femmine;40;40;40
+2015;Quarto Cagnino;Maschi;45;45;45
+2015;Quarto Oggiaro;Femmine;185;185;185
+2015;Quarto Oggiaro;Maschi;159;158;158
+2015;Quinto Romano;Femmine;17;17;17
+2015;Quinto Romano;Maschi;17;17;17
+2015;Ripamonti;Femmine;60;60;60
+2015;Ripamonti;Maschi;61;61;61
+2015;Rogoredo;Femmine;26;26;26
+2015;Rogoredo;Maschi;26;26;26
+2015;Ronchetto S/N;Femmine;71;71;71
+2015;Ronchetto S/N;Maschi;79;79;79
+2015;S. Cristoforo;Femmine;63;63;63
+2015;S. Cristoforo;Maschi;57;57;57
+2015;S. Siro;Femmine;56;56;56
+2015;S. Siro;Maschi;62;62;62
+2015;Sarpi;Femmine;170;170;170
+2015;Sarpi;Maschi;139;139;138
+2015;Scalo Romana;Femmine;30;30;30
+2015;Scalo Romana;Maschi;40;40;40
+2015;Selinunte;Femmine;165;165;165
+2015;Selinunte;Maschi;116;116;116
+2015;Stadera;Femmine;168;168;168
+2015;Stadera;Maschi;151;151;151
+2015;Tibaldi;Femmine;70;70;70
+2015;Tibaldi;Maschi;60;60;60
+2015;Ticinese;Femmine;88;88;88
+2015;Ticinese;Maschi;88;88;88
+2015;Tortona;Femmine;82;82;82
+2015;Tortona;Maschi;74;74;74
+2015;Trenno;Femmine;10;10;10
+2015;Trenno;Maschi;21;21;21
+2015;Umbria - Molise;Femmine;132;132;132
+2015;Umbria - Molise;Maschi;108;108;108
+2015;Vigentina;Femmine;81;81;81
+2015;Vigentina;Maschi;70;70;70
+2015;Villapizzone;Femmine;242;242;242
+2015;Villapizzone;Maschi;199;199;199
+2015;Vle Monza;Femmine;138;138;138
+2015;Vle Monza;Maschi;133;133;133
+2015;Washington;Femmine;170;170;170
+2015;Washington;Maschi;143;143;143
+2015;XXII Marzo;Femmine;191;191;191
+2015;XXII Marzo;Maschi;158;157;157
+2015;Quartieri residuali;Femmine;16;16;16
+2015;Quartieri residuali;Maschi;8;8;8
+2016;Adriano;Femmine;37;37;37
+2016;Adriano;Maschi;40;40;40
+2016;Affori;Femmine;100;100;100
+2016;Affori;Maschi;104;104;103
+2016;Baggio;Femmine;172;172;172
+2016;Baggio;Maschi;167;167;167
+2016;Bande Nere;Femmine;331;331;330
+2016;Bande Nere;Maschi;278;277;277
+2016;Barona;Femmine;112;112;112
+2016;Barona;Maschi;98;98;98
+2016;Bicocca;Femmine;20;20;20
+2016;Bicocca;Maschi;19;19;19
+2016;Bovisa;Femmine;50;50;50
+2016;Bovisa;Maschi;45;45;45
+2016;Bovisasca;Femmine;44;44;44
+2016;Bovisasca;Maschi;41;41;41
+2016;Brera;Femmine;90;89;89
+2016;Brera;Maschi;84;84;84
+2016;Bruzzano;Femmine;44;43;43
+2016;Bruzzano;Maschi;52;52;52
+2016;Buenos Aires - Venezia;Femmine;363;363;363
+2016;Buenos Aires - Venezia;Maschi;326;326;326
+2016;Centrale;Femmine;85;84;84
+2016;Centrale;Maschi;74;74;74
+2016;Città Studi;Femmine;244;243;243
+2016;Città Studi;Maschi;189;189;189
+2016;Comasina;Femmine;48;48;48
+2016;Comasina;Maschi;37;37;37
+2016;Corsica;Femmine;124;124;124
+2016;Corsica;Maschi;102;102;102
+2016;De Angeli - Monte Rosa;Femmine;127;127;127
+2016;De Angeli - Monte Rosa;Maschi;109;109;109
+2016;Dergano;Femmine;86;86;86
+2016;Dergano;Maschi;89;87;87
+2016;Duomo;Femmine;79;79;79
+2016;Duomo;Maschi;78;78;78
+2016;Ex OM - Morivione;Femmine;52;52;52
+2016;Ex OM - Morivione;Maschi;27;26;26
+2016;Farini;Femmine;6;6;6
+2016;Farini;Maschi;7;7;7
+2016;Forze Armate;Femmine;138;138;138
+2016;Forze Armate;Maschi;125;125;125
+2016;Gallaratese;Femmine;236;236;236
+2016;Gallaratese;Maschi;245;245;245
+2016;Garibaldi Repubblica;Femmine;28;28;28
+2016;Garibaldi Repubblica;Maschi;14;15;15
+2016;Ghisolfa;Femmine;100;100;100
+2016;Ghisolfa;Maschi;81;81;81
+2016;Giambellino;Femmine;178;178;178
+2016;Giambellino;Maschi;146;146;146
+2016;Gratosoglio - Ticinello;Femmine;98;98;98
+2016;Gratosoglio - Ticinello;Maschi;114;114;114
+2016;Greco;Femmine;81;81;81
+2016;Greco;Maschi;74;74;74
+2016;Guastalla;Femmine;81;81;81
+2016;Guastalla;Maschi;72;72;72
+2016;Isola;Femmine;108;107;107
+2016;Isola;Maschi;95;95;95
+2016;Lambrate;Femmine;51;51;51
+2016;Lambrate;Maschi;41;41;41
+2016;Lodi - Corvetto;Femmine;235;235;234
+2016;Lodi - Corvetto;Maschi;190;190;190
+2016;Lorenteggio;Femmine;98;98;98
+2016;Lorenteggio;Maschi;79;79;79
+2016;Loreto;Femmine;210;209;209
+2016;Loreto;Maschi;185;185;185
+2016;Maciachini - Maggiolina;Femmine;159;159;159
+2016;Maciachini - Maggiolina;Maschi;128;128;128
+2016;Magenta - S. Vittore;Femmine;91;91;91
+2016;Magenta - S. Vittore;Maschi;80;80;80
+2016;Maggiore - Musocco;Femmine;21;21;21
+2016;Maggiore - Musocco;Maschi;27;27;27
+2016;Mecenate;Femmine;141;141;141
+2016;Mecenate;Maschi;133;133;133
+2016;Navigli;Femmine;80;80;80
+2016;Navigli;Maschi;62;62;62
+2016;Niguarda - Cà Granda;Femmine;244;244;244
+2016;Niguarda - Cà Granda;Maschi;212;212;212
+2016;Ortomercato;Femmine;20;20;20
+2016;Ortomercato;Maschi;17;17;17
+2016;Padova;Femmine;199;199;199
+2016;Padova;Maschi;181;181;181
+2016;Pagano;Femmine;93;93;93
+2016;Pagano;Maschi;82;82;82
+2016;Parco Lambro - Cimiano;Femmine;146;147;147
+2016;Parco Lambro - Cimiano;Maschi;122;122;122
+2016;Parco Monlué - Ponte Lambro;Femmine;6;6;6
+2016;Parco Monlué - Ponte Lambro;Maschi;6;7;7
+2016;Porta Romana;Femmine;75;76;76
+2016;Porta Romana;Maschi;65;65;65
+2016;Portello;Femmine;51;51;51
+2016;Portello;Maschi;45;45;45
+2016;QT 8;Femmine;31;31;31
+2016;QT 8;Maschi;21;21;21
+2016;Quarto Cagnino;Femmine;41;41;41
+2016;Quarto Cagnino;Maschi;46;46;46
+2016;Quarto Oggiaro;Femmine;186;186;186
+2016;Quarto Oggiaro;Maschi;155;154;154
+2016;Quinto Romano;Femmine;18;18;18
+2016;Quinto Romano;Maschi;18;18;18
+2016;Ripamonti;Femmine;57;57;57
+2016;Ripamonti;Maschi;63;63;63
+2016;Rogoredo;Femmine;26;26;26
+2016;Rogoredo;Maschi;25;25;25
+2016;Ronchetto S/N;Femmine;69;69;69
+2016;Ronchetto S/N;Maschi;77;76;76
+2016;S. Cristoforo;Femmine;61;61;61
+2016;S. Cristoforo;Maschi;59;59;59
+2016;S. Siro;Femmine;55;55;55
+2016;S. Siro;Maschi;63;63;63
+2016;Sarpi;Femmine;166;166;166
+2016;Sarpi;Maschi;136;136;135
+2016;Scalo Romana;Femmine;30;30;30
+2016;Scalo Romana;Maschi;39;39;39
+2016;Selinunte;Femmine;162;161;161
+2016;Selinunte;Maschi;116;116;116
+2016;Stadera;Femmine;171;170;170
+2016;Stadera;Maschi;153;153;153
+2016;Tibaldi;Femmine;68;68;68
+2016;Tibaldi;Maschi;59;59;59
+2016;Ticinese;Femmine;89;89;89
+2016;Ticinese;Maschi;85;85;85
+2016;Tortona;Femmine;79;79;79
+2016;Tortona;Maschi;76;76;76
+2016;Trenno;Femmine;13;13;13
+2016;Trenno;Maschi;18;18;18
+2016;Umbria - Molise;Femmine;130;130;130
+2016;Umbria - Molise;Maschi;108;108;108
+2016;Vigentina;Femmine;79;79;79
+2016;Vigentina;Maschi;69;69;69
+2016;Villapizzone;Femmine;241;241;241
+2016;Villapizzone;Maschi;197;195;195
+2016;Vle Monza;Femmine;136;136;136
+2016;Vle Monza;Maschi;132;132;132
+2016;Washington;Femmine;169;169;169
+2016;Washington;Maschi;139;139;139
+2016;XXII Marzo;Femmine;185;185;185
+2016;XXII Marzo;Maschi;157;156;156
+2016;Quartieri residuali;Femmine;14;14;14
+2016;Quartieri residuali;Maschi;7;7;7
+2017;Adriano;Femmine;36;36;36
+2017;Adriano;Maschi;41;41;41
+2017;Affori;Femmine;106;106;106
+2017;Affori;Maschi;102;102;101
+2017;Baggio;Femmine;173;172;172
+2017;Baggio;Maschi;164;164;164
+2017;Bande Nere;Femmine;324;324;323
+2017;Bande Nere;Maschi;270;269;269
+2017;Barona;Femmine;115;115;115
+2017;Barona;Maschi;99;99;99
+2017;Bicocca;Femmine;21;21;21
+2017;Bicocca;Maschi;18;18;18
+2017;Bovisa;Femmine;53;53;53
+2017;Bovisa;Maschi;47;47;47
+2017;Bovisasca;Femmine;43;43;43
+2017;Bovisasca;Maschi;41;41;41
+2017;Brera;Femmine;88;88;88
+2017;Brera;Maschi;82;82;82
+2017;Bruzzano;Femmine;41;41;41
+2017;Bruzzano;Maschi;50;50;50
+2017;Buenos Aires - Venezia;Femmine;358;358;358
+2017;Buenos Aires - Venezia;Maschi;321;320;320
+2017;Centrale;Femmine;84;84;84
+2017;Centrale;Maschi;75;75;75
+2017;Città Studi;Femmine;244;243;243
+2017;Città Studi;Maschi;183;183;183
+2017;Comasina;Femmine;46;46;46
+2017;Comasina;Maschi;38;38;38
+2017;Corsica;Femmine;124;124;124
+2017;Corsica;Maschi;101;101;101
+2017;De Angeli - Monte Rosa;Femmine;125;125;125
+2017;De Angeli - Monte Rosa;Maschi;105;105;105
+2017;Dergano;Femmine;87;87;87
+2017;Dergano;Maschi;89;88;88
+2017;Duomo;Femmine;78;78;78
+2017;Duomo;Maschi;75;75;75
+2017;Ex OM - Morivione;Femmine;50;50;50
+2017;Ex OM - Morivione;Maschi;26;26;26
+2017;Farini;Femmine;7;7;7
+2017;Farini;Maschi;7;7;7
+2017;Forze Armate;Femmine;140;140;140
+2017;Forze Armate;Maschi;124;124;124
+2017;Gallaratese;Femmine;239;239;239
+2017;Gallaratese;Maschi;243;242;242
+2017;Garibaldi Repubblica;Femmine;26;26;26
+2017;Garibaldi Repubblica;Maschi;16;16;16
+2017;Ghisolfa;Femmine;95;95;95
+2017;Ghisolfa;Maschi;78;78;78
+2017;Giambellino;Femmine;179;179;179
+2017;Giambellino;Maschi;142;142;142
+2017;Gratosoglio - Ticinello;Femmine;101;101;101
+2017;Gratosoglio - Ticinello;Maschi;114;114;114
+2017;Greco;Femmine;78;78;78
+2017;Greco;Maschi;71;71;71
+2017;Guastalla;Femmine;76;76;76
+2017;Guastalla;Maschi;71;71;71
+2017;Isola;Femmine;112;112;112
+2017;Isola;Maschi;94;94;94
+2017;Lambrate;Femmine;51;51;51
+2017;Lambrate;Maschi;39;39;39
+2017;Lodi - Corvetto;Femmine;233;232;231
+2017;Lodi - Corvetto;Maschi;186;185;185
+2017;Lorenteggio;Femmine;97;97;97
+2017;Lorenteggio;Maschi;78;78;78
+2017;Loreto;Femmine;211;211;211
+2017;Loreto;Maschi;184;184;184
+2017;Maciachini - Maggiolina;Femmine;162;162;162
+2017;Maciachini - Maggiolina;Maschi;123;123;123
+2017;Magenta - S. Vittore;Femmine;91;91;91
+2017;Magenta - S. Vittore;Maschi;76;76;76
+2017;Maggiore - Musocco;Femmine;20;20;20
+2017;Maggiore - Musocco;Maschi;27;27;27
+2017;Mecenate;Femmine;142;142;142
+2017;Mecenate;Maschi;133;133;133
+2017;Navigli;Femmine;80;80;80
+2017;Navigli;Maschi;62;62;62
+2017;Niguarda - Cà Granda;Femmine;240;240;240
+2017;Niguarda - Cà Granda;Maschi;211;211;210
+2017;Ortomercato;Femmine;20;20;20
+2017;Ortomercato;Maschi;15;15;15
+2017;Padova;Femmine;202;202;202
+2017;Padova;Maschi;178;178;178
+2017;Pagano;Femmine;92;92;92
+2017;Pagano;Maschi;80;80;80
+2017;Parco Lambro - Cimiano;Femmine;147;147;147
+2017;Parco Lambro - Cimiano;Maschi;121;122;122
+2017;Parco Monlué - Ponte Lambro;Femmine;6;6;6
+2017;Parco Monlué - Ponte Lambro;Maschi;5;5;5
+2017;Porta Romana;Femmine;76;76;76
+2017;Porta Romana;Maschi;66;65;65
+2017;Portello;Femmine;52;52;52
+2017;Portello;Maschi;43;43;43
+2017;QT 8;Femmine;29;30;30
+2017;QT 8;Maschi;21;21;21
+2017;Quarto Cagnino;Femmine;40;40;40
+2017;Quarto Cagnino;Maschi;46;46;46
+2017;Quarto Oggiaro;Femmine;189;189;189
+2017;Quarto Oggiaro;Maschi;160;159;159
+2017;Quinto Romano;Femmine;19;19;19
+2017;Quinto Romano;Maschi;15;15;15
+2017;Ripamonti;Femmine;57;57;57
+2017;Ripamonti;Maschi;64;64;64
+2017;Rogoredo;Femmine;25;25;25
+2017;Rogoredo;Maschi;23;23;23
+2017;Ronchetto S/N;Femmine;71;70;70
+2017;Ronchetto S/N;Maschi;77;77;77
+2017;S. Cristoforo;Femmine;61;61;61
+2017;S. Cristoforo;Maschi;58;58;58
+2017;S. Siro;Femmine;55;55;55
+2017;S. Siro;Maschi;60;60;60
+2017;Sarpi;Femmine;168;168;168
+2017;Sarpi;Maschi;134;134;133
+2017;Scalo Romana;Femmine;30;30;30
+2017;Scalo Romana;Maschi;39;39;39
+2017;Selinunte;Femmine;160;159;159
+2017;Selinunte;Maschi;110;110;110
+2017;Stadera;Femmine;173;173;173
+2017;Stadera;Maschi;150;150;150
+2017;Tibaldi;Femmine;70;70;70
+2017;Tibaldi;Maschi;58;58;58
+2017;Ticinese;Femmine;87;87;87
+2017;Ticinese;Maschi;83;83;83
+2017;Tortona;Femmine;76;76;76
+2017;Tortona;Maschi;73;73;73
+2017;Trenno;Femmine;11;11;11
+2017;Trenno;Maschi;18;18;18
+2017;Umbria - Molise;Femmine;132;132;132
+2017;Umbria - Molise;Maschi;105;105;105
+2017;Vigentina;Femmine;79;79;79
+2017;Vigentina;Maschi;68;68;68
+2017;Villapizzone;Femmine;239;239;239
+2017;Villapizzone;Maschi;192;190;190
+2017;Vle Monza;Femmine;138;138;138
+2017;Vle Monza;Maschi;134;132;132
+2017;Washington;Femmine;165;165;165
+2017;Washington;Maschi;134;133;133
+2017;XXII Marzo;Femmine;185;185;185
+2017;XXII Marzo;Maschi;151;150;150
+2017;Quartieri residuali;Femmine;16;16;16
+2017;Quartieri residuali;Maschi;8;7;7
+2018;Adriano;Femmine;38;38;38
+2018;Adriano;Maschi;43;43;43
+2018;Affori;Femmine;106;105;105
+2018;Affori;Maschi;103;102;101
+2018;Baggio;Femmine;175;175;175
+2018;Baggio;Maschi;165;165;165
+2018;Bande Nere;Femmine;315;315;314
+2018;Bande Nere;Maschi;261;262;262
+2018;Barona;Femmine;114;114;114
+2018;Barona;Maschi;101;101;101
+2018;Bicocca;Femmine;19;19;19
+2018;Bicocca;Maschi;17;17;17
+2018;Bovisa;Femmine;52;52;52
+2018;Bovisa;Maschi;46;46;46
+2018;Bovisasca;Femmine;43;43;43
+2018;Bovisasca;Maschi;39;39;39
+2018;Brera;Femmine;88;88;88
+2018;Brera;Maschi;82;81;81
+2018;Bruzzano;Femmine;42;42;42
+2018;Bruzzano;Maschi;51;51;51
+2018;Buenos Aires - Venezia;Femmine;350;350;350
+2018;Buenos Aires - Venezia;Maschi;318;317;317
+2018;Centrale;Femmine;80;80;80
+2018;Centrale;Maschi;75;74;74
+2018;Città Studi;Femmine;239;239;239
+2018;Città Studi;Maschi;185;184;184
+2018;Comasina;Femmine;48;48;48
+2018;Comasina;Maschi;38;38;38
+2018;Corsica;Femmine;121;121;121
+2018;Corsica;Maschi;100;99;99
+2018;De Angeli - Monte Rosa;Femmine;121;121;121
+2018;De Angeli - Monte Rosa;Maschi;101;101;101
+2018;Dergano;Femmine;90;90;90
+2018;Dergano;Maschi;91;91;91
+2018;Duomo;Femmine;77;77;77
+2018;Duomo;Maschi;77;77;77
+2018;Ex OM - Morivione;Femmine;51;51;51
+2018;Ex OM - Morivione;Maschi;27;26;26
+2018;Farini;Femmine;7;7;7
+2018;Farini;Maschi;7;7;7
+2018;Forze Armate;Femmine;141;141;141
+2018;Forze Armate;Maschi;125;125;125
+2018;Gallaratese;Femmine;241;241;241
+2018;Gallaratese;Maschi;241;241;241
+2018;Garibaldi Repubblica;Femmine;26;26;26
+2018;Garibaldi Repubblica;Maschi;16;15;15
+2018;Ghisolfa;Femmine;92;92;92
+2018;Ghisolfa;Maschi;77;76;76
+2018;Giambellino;Femmine;176;176;176
+2018;Giambellino;Maschi;137;137;137
+2018;Gratosoglio - Ticinello;Femmine;97;97;97
+2018;Gratosoglio - Ticinello;Maschi;110;112;112
+2018;Greco;Femmine;78;78;78
+2018;Greco;Maschi;72;73;73
+2018;Guastalla;Femmine;74;74;74
+2018;Guastalla;Maschi;71;70;70
+2018;Isola;Femmine;107;107;107
+2018;Isola;Maschi;94;94;94
+2018;Lambrate;Femmine;50;50;50
+2018;Lambrate;Maschi;38;38;38
+2018;Lodi - Corvetto;Femmine;226;226;225
+2018;Lodi - Corvetto;Maschi;187;186;186
+2018;Lorenteggio;Femmine;92;92;92
+2018;Lorenteggio;Maschi;79;79;79
+2018;Loreto;Femmine;207;207;207
+2018;Loreto;Maschi;185;185;185
+2018;Maciachini - Maggiolina;Femmine;163;163;163
+2018;Maciachini - Maggiolina;Maschi;130;130;130
+2018;Magenta - S. Vittore;Femmine;88;88;88
+2018;Magenta - S. Vittore;Maschi;73;73;73
+2018;Maggiore - Musocco;Femmine;22;22;22
+2018;Maggiore - Musocco;Maschi;24;24;24
+2018;Mecenate;Femmine;147;147;147
+2018;Mecenate;Maschi;133;134;134
+2018;Navigli;Femmine;76;76;76
+2018;Navigli;Maschi;62;62;62
+2018;Niguarda - Cà Granda;Femmine;240;240;240
+2018;Niguarda - Cà Granda;Maschi;207;207;206
+2018;Ortomercato;Femmine;21;21;21
+2018;Ortomercato;Maschi;17;17;17
+2018;Padova;Femmine;201;201;200
+2018;Padova;Maschi;175;174;174
+2018;Pagano;Femmine;91;91;91
+2018;Pagano;Maschi;76;76;76
+2018;Parco Lambro - Cimiano;Femmine;143;143;143
+2018;Parco Lambro - Cimiano;Maschi;117;117;117
+2018;Parco Monlué - Ponte Lambro;Femmine;6;6;6
+2018;Parco Monlué - Ponte Lambro;Maschi;4;4;4
+2018;Porta Romana;Femmine;74;74;74
+2018;Porta Romana;Maschi;65;65;65
+2018;Portello;Femmine;50;50;50
+2018;Portello;Maschi;41;41;41
+2018;QT 8;Femmine;29;29;29
+2018;QT 8;Maschi;19;19;19
+2018;Quarto Cagnino;Femmine;38;38;38
+2018;Quarto Cagnino;Maschi;46;46;46
+2018;Quarto Oggiaro;Femmine;185;185;185
+2018;Quarto Oggiaro;Maschi;157;156;156
+2018;Quinto Romano;Femmine;17;17;17
+2018;Quinto Romano;Maschi;16;16;16
+2018;Ripamonti;Femmine;56;55;55
+2018;Ripamonti;Maschi;66;66;66
+2018;Rogoredo;Femmine;28;28;28
+2018;Rogoredo;Maschi;21;21;21
+2018;Ronchetto S/N;Femmine;72;72;72
+2018;Ronchetto S/N;Maschi;75;75;75
+2018;S. Cristoforo;Femmine;60;60;60
+2018;S. Cristoforo;Maschi;59;59;59
+2018;S. Siro;Femmine;54;54;54
+2018;S. Siro;Maschi;61;61;61
+2018;Sarpi;Femmine;165;165;165
+2018;Sarpi;Maschi;132;132;131
+2018;Scalo Romana;Femmine;30;30;30
+2018;Scalo Romana;Maschi;39;39;39
+2018;Selinunte;Femmine;158;157;157
+2018;Selinunte;Maschi;114;114;114
+2018;Stadera;Femmine;175;175;175
+2018;Stadera;Maschi;151;151;151
+2018;Tibaldi;Femmine;68;68;68
+2018;Tibaldi;Maschi;60;60;60
+2018;Ticinese;Femmine;91;91;91
+2018;Ticinese;Maschi;84;84;84
+2018;Tortona;Femmine;78;78;78
+2018;Tortona;Maschi;74;74;74
+2018;Trenno;Femmine;11;11;11
+2018;Trenno;Maschi;19;19;19
+2018;Umbria - Molise;Femmine;131;131;131
+2018;Umbria - Molise;Maschi;104;104;104
+2018;Vigentina;Femmine;76;76;76
+2018;Vigentina;Maschi;69;69;69
+2018;Villapizzone;Femmine;238;236;236
+2018;Villapizzone;Maschi;193;189;189
+2018;Vle Monza;Femmine;138;137;137
+2018;Vle Monza;Maschi;135;135;135
+2018;Washington;Femmine;161;161;161
+2018;Washington;Maschi;127;127;127
+2018;XXII Marzo;Femmine;180;180;180
+2018;XXII Marzo;Maschi;149;148;148
+2018;Quartieri residuali;Femmine;17;17;17
+2018;Quartieri residuali;Maschi;9;9;9
+2019;Adriano;Femmine;37;37;37
+2019;Adriano;Maschi;44;44;44
+2019;Affori;Femmine;107;107;107
+2019;Affori;Maschi;105;104;104
+2019;Baggio;Femmine;176;176;176
+2019;Baggio;Maschi;163;163;163
+2019;Bande Nere;Femmine;309;309;308
+2019;Bande Nere;Maschi;256;255;255
+2019;Barona;Femmine;115;115;115
+2019;Barona;Maschi;103;102;102
+2019;Bicocca;Femmine;20;20;20
+2019;Bicocca;Maschi;18;18;18
+2019;Bovisa;Femmine;53;53;53
+2019;Bovisa;Maschi;49;49;49
+2019;Bovisasca;Femmine;43;43;43
+2019;Bovisasca;Maschi;41;41;41
+2019;Brera;Femmine;84;84;84
+2019;Brera;Maschi;80;80;80
+2019;Bruzzano;Femmine;41;41;41
+2019;Bruzzano;Maschi;52;52;52
+2019;Buenos Aires - Venezia;Femmine;348;348;348
+2019;Buenos Aires - Venezia;Maschi;314;312;312
+2019;Centrale;Femmine;83;83;83
+2019;Centrale;Maschi;74;74;74
+2019;Città Studi;Femmine;230;229;229
+2019;Città Studi;Maschi;179;179;179
+2019;Comasina;Femmine;51;51;51
+2019;Comasina;Maschi;38;38;38
+2019;Corsica;Femmine;121;121;121
+2019;Corsica;Maschi;96;96;96
+2019;De Angeli - Monte Rosa;Femmine;121;121;121
+2019;De Angeli - Monte Rosa;Maschi;99;99;99
+2019;Dergano;Femmine;90;90;90
+2019;Dergano;Maschi;91;90;90
+2019;Duomo;Femmine;77;77;77
+2019;Duomo;Maschi;73;73;73
+2019;Ex OM - Morivione;Femmine;52;52;52
+2019;Ex OM - Morivione;Maschi;25;25;25
+2019;Farini;Femmine;6;6;6
+2019;Farini;Maschi;6;6;6
+2019;Forze Armate;Femmine;141;141;141
+2019;Forze Armate;Maschi;125;125;125
+2019;Gallaratese;Femmine;243;243;243
+2019;Gallaratese;Maschi;236;236;236
+2019;Garibaldi Repubblica;Femmine;26;26;26
+2019;Garibaldi Repubblica;Maschi;13;13;13
+2019;Ghisolfa;Femmine;88;88;88
+2019;Ghisolfa;Maschi;79;79;79
+2019;Giambellino;Femmine;172;172;172
+2019;Giambellino;Maschi;135;135;135
+2019;Gratosoglio - Ticinello;Femmine;101;101;101
+2019;Gratosoglio - Ticinello;Maschi;114;114;114
+2019;Greco;Femmine;77;77;77
+2019;Greco;Maschi;70;70;70
+2019;Guastalla;Femmine;73;72;72
+2019;Guastalla;Maschi;72;72;72
+2019;Isola;Femmine;106;106;106
+2019;Isola;Maschi;88;88;88
+2019;Lambrate;Femmine;51;51;51
+2019;Lambrate;Maschi;37;37;37
+2019;Lodi - Corvetto;Femmine;228;227;227
+2019;Lodi - Corvetto;Maschi;184;184;184
+2019;Lorenteggio;Femmine;93;93;93
+2019;Lorenteggio;Maschi;78;78;78
+2019;Loreto;Femmine;208;207;207
+2019;Loreto;Maschi;180;179;179
+2019;Maciachini - Maggiolina;Femmine;159;159;159
+2019;Maciachini - Maggiolina;Maschi;121;121;121
+2019;Magenta - S. Vittore;Femmine;87;87;87
+2019;Magenta - S. Vittore;Maschi;78;77;77
+2019;Maggiore - Musocco;Femmine;20;20;20
+2019;Maggiore - Musocco;Maschi;24;24;24
+2019;Mecenate;Femmine;142;142;142
+2019;Mecenate;Maschi;130;130;130
+2019;Navigli;Femmine;75;75;75
+2019;Navigli;Maschi;61;61;61
+2019;Niguarda - Cà Granda;Femmine;235;235;235
+2019;Niguarda - Cà Granda;Maschi;210;210;209
+2019;Ortomercato;Femmine;19;19;19
+2019;Ortomercato;Maschi;15;15;15
+2019;Padova;Femmine;197;197;195
+2019;Padova;Maschi;176;170;170
+2019;Pagano;Femmine;89;89;89
+2019;Pagano;Maschi;77;76;76
+2019;Parco Lambro - Cimiano;Femmine;143;143;143
+2019;Parco Lambro - Cimiano;Maschi;115;116;116
+2019;Parco Monlué - Ponte Lambro;Femmine;7;7;7
+2019;Parco Monlué - Ponte Lambro;Maschi;5;5;5
+2019;Porta Romana;Femmine;71;71;71
+2019;Porta Romana;Maschi;65;65;65
+2019;Portello;Femmine;50;50;50
+2019;Portello;Maschi;40;40;40
+2019;QT 8;Femmine;27;27;27
+2019;QT 8;Maschi;20;20;20
+2019;Quarto Cagnino;Femmine;40;39;39
+2019;Quarto Cagnino;Maschi;44;44;44
+2019;Quarto Oggiaro;Femmine;185;185;185
+2019;Quarto Oggiaro;Maschi;153;153;153
+2019;Quinto Romano;Femmine;18;18;18
+2019;Quinto Romano;Maschi;16;15;15
+2019;Ripamonti;Femmine;52;52;52
+2019;Ripamonti;Maschi;63;62;62
+2019;Rogoredo;Femmine;25;25;25
+2019;Rogoredo;Maschi;17;17;17
+2019;Ronchetto S/N;Femmine;69;69;69
+2019;Ronchetto S/N;Maschi;77;77;77
+2019;S. Cristoforo;Femmine;59;59;59
+2019;S. Cristoforo;Maschi;62;62;62
+2019;S. Siro;Femmine;53;53;53
+2019;S. Siro;Maschi;60;60;60
+2019;Sarpi;Femmine;163;163;163
+2019;Sarpi;Maschi;126;126;125
+2019;Scalo Romana;Femmine;29;29;29
+2019;Scalo Romana;Maschi;39;39;39
+2019;Selinunte;Femmine;154;154;154
+2019;Selinunte;Maschi;113;113;113
+2019;Stadera;Femmine;175;174;174
+2019;Stadera;Maschi;147;147;146
+2019;Tibaldi;Femmine;68;68;68
+2019;Tibaldi;Maschi;58;57;57
+2019;Ticinese;Femmine;86;86;86
+2019;Ticinese;Maschi;82;82;82
+2019;Tortona;Femmine;73;73;73
+2019;Tortona;Maschi;71;71;71
+2019;Trenno;Femmine;11;11;11
+2019;Trenno;Maschi;20;19;19
+2019;Umbria - Molise;Femmine;127;127;127
+2019;Umbria - Molise;Maschi;102;102;102
+2019;Vigentina;Femmine;73;74;74
+2019;Vigentina;Maschi;64;64;64
+2019;Villapizzone;Femmine;233;234;234
+2019;Villapizzone;Maschi;185;186;186
+2019;Vle Monza;Femmine;139;139;139
+2019;Vle Monza;Maschi;135;135;135
+2019;Washington;Femmine;161;160;160
+2019;Washington;Maschi;127;127;127
+2019;XXII Marzo;Femmine;177;176;176
+2019;XXII Marzo;Maschi;146;144;144
+2019;Quartieri residuali;Femmine;18;18;18
+2019;Quartieri residuali;Maschi;8;7;7
+2020;Adriano;Femmine;37;37;37
+2020;Adriano;Maschi;46;46;46
+2020;Affori;Femmine;107;106;106
+2020;Affori;Maschi;105;103;102
+2020;Baggio;Femmine;182;182;182
+2020;Baggio;Maschi;160;161;161
+2020;Bande Nere;Femmine;304;303;303
+2020;Bande Nere;Maschi;242;242;242
+2020;Barona;Femmine;122;122;122
+2020;Barona;Maschi;101;101;101
+2020;Bicocca;Femmine;20;20;20
+2020;Bicocca;Maschi;19;19;19
+2020;Bovisa;Femmine;53;53;53
+2020;Bovisa;Maschi;46;46;46
+2020;Bovisasca;Femmine;44;44;44
+2020;Bovisasca;Maschi;38;38;38
+2020;Brera;Femmine;82;82;82
+2020;Brera;Maschi;80;80;80
+2020;Bruzzano;Femmine;41;41;41
+2020;Bruzzano;Maschi;52;52;52
+2020;Buenos Aires - Venezia;Femmine;346;346;346
+2020;Buenos Aires - Venezia;Maschi;312;310;310
+2020;Centrale;Femmine;81;81;81
+2020;Centrale;Maschi;71;71;71
+2020;Città Studi;Femmine;227;228;228
+2020;Città Studi;Maschi;176;176;176
+2020;Comasina;Femmine;49;49;49
+2020;Comasina;Maschi;37;37;37
+2020;Corsica;Femmine;120;120;120
+2020;Corsica;Maschi;96;97;97
+2020;De Angeli - Monte Rosa;Femmine;123;121;121
+2020;De Angeli - Monte Rosa;Maschi;97;97;97
+2020;Dergano;Femmine;94;94;94
+2020;Dergano;Maschi;91;89;89
+2020;Duomo;Femmine;74;74;74
+2020;Duomo;Maschi;70;70;70
+2020;Ex OM - Morivione;Femmine;52;53;53
+2020;Ex OM - Morivione;Maschi;27;27;27
+2020;Farini;Femmine;6;6;6
+2020;Farini;Maschi;5;5;5
+2020;Forze Armate;Femmine;143;143;143
+2020;Forze Armate;Maschi;128;128;128
+2020;Gallaratese;Femmine;246;246;246
+2020;Gallaratese;Maschi;232;233;233
+2020;Garibaldi Repubblica;Femmine;25;25;25
+2020;Garibaldi Repubblica;Maschi;15;15;15
+2020;Ghisolfa;Femmine;90;89;89
+2020;Ghisolfa;Maschi;77;77;77
+2020;Giambellino;Femmine;171;171;171
+2020;Giambellino;Maschi;130;130;130
+2020;Gratosoglio - Ticinello;Femmine;104;103;103
+2020;Gratosoglio - Ticinello;Maschi;112;112;112
+2020;Greco;Femmine;76;76;76
+2020;Greco;Maschi;71;71;71
+2020;Guastalla;Femmine;73;73;73
+2020;Guastalla;Maschi;69;69;69
+2020;Isola;Femmine;103;102;102
+2020;Isola;Maschi;88;88;88
+2020;Lambrate;Femmine;50;50;50
+2020;Lambrate;Maschi;36;36;36
+2020;Lodi - Corvetto;Femmine;222;222;221
+2020;Lodi - Corvetto;Maschi;180;179;179
+2020;Lorenteggio;Femmine;90;90;90
+2020;Lorenteggio;Maschi;78;77;77
+2020;Loreto;Femmine;207;206;206
+2020;Loreto;Maschi;180;180;180
+2020;Maciachini - Maggiolina;Femmine;158;158;158
+2020;Maciachini - Maggiolina;Maschi;121;121;121
+2020;Magenta - S. Vittore;Femmine;86;86;86
+2020;Magenta - S. Vittore;Maschi;75;75;75
+2020;Maggiore - Musocco;Femmine;19;19;19
+2020;Maggiore - Musocco;Maschi;24;24;24
+2020;Mecenate;Femmine;144;145;145
+2020;Mecenate;Maschi;126;126;126
+2020;Navigli;Femmine;70;70;70
+2020;Navigli;Maschi;59;59;59
+2020;Niguarda - Cà Granda;Femmine;237;237;237
+2020;Niguarda - Cà Granda;Maschi;204;203;203
+2020;Ortomercato;Femmine;20;20;20
+2020;Ortomercato;Maschi;15;15;15
+2020;Padova;Femmine;201;199;198
+2020;Padova;Maschi;172;171;171
+2020;Pagano;Femmine;90;90;90
+2020;Pagano;Maschi;77;77;77
+2020;Parco Lambro - Cimiano;Femmine;144;144;144
+2020;Parco Lambro - Cimiano;Maschi;114;114;114
+2020;Parco Monlué - Ponte Lambro;Femmine;7;7;7
+2020;Parco Monlué - Ponte Lambro;Maschi;4;4;4
+2020;Porta Romana;Femmine;71;71;71
+2020;Porta Romana;Maschi;64;64;64
+2020;Portello;Femmine;48;48;48
+2020;Portello;Maschi;38;38;38
+2020;QT 8;Femmine;27;27;27
+2020;QT 8;Maschi;18;18;18
+2020;Quarto Cagnino;Femmine;39;39;39
+2020;Quarto Cagnino;Maschi;44;45;45
+2020;Quarto Oggiaro;Femmine;184;184;184
+2020;Quarto Oggiaro;Maschi;154;153;153
+2020;Quinto Romano;Femmine;18;18;18
+2020;Quinto Romano;Maschi;16;16;16
+2020;Ripamonti;Femmine;52;52;52
+2020;Ripamonti;Maschi;62;62;62
+2020;Rogoredo;Femmine;28;28;28
+2020;Rogoredo;Maschi;19;19;19
+2020;Ronchetto S/N;Femmine;73;73;73
+2020;Ronchetto S/N;Maschi;77;77;77
+2020;S. Cristoforo;Femmine;61;61;61
+2020;S. Cristoforo;Maschi;60;60;60
+2020;S. Siro;Femmine;53;53;53
+2020;S. Siro;Maschi;58;58;58
+2020;Sarpi;Femmine;159;160;160
+2020;Sarpi;Maschi;124;124;123
+2020;Scalo Romana;Femmine;31;31;31
+2020;Scalo Romana;Maschi;36;36;36
+2020;Selinunte;Femmine;151;151;151
+2020;Selinunte;Maschi;109;109;109
+2020;Stadera;Femmine;177;177;177
+2020;Stadera;Maschi;146;146;145
+2020;Tibaldi;Femmine;67;67;67
+2020;Tibaldi;Maschi;61;61;61
+2020;Ticinese;Femmine;88;88;88
+2020;Ticinese;Maschi;79;79;79
+2020;Tortona;Femmine;76;76;76
+2020;Tortona;Maschi;70;69;69
+2020;Trenno;Femmine;13;12;12
+2020;Trenno;Maschi;19;19;19
+2020;Umbria - Molise;Femmine;125;125;125
+2020;Umbria - Molise;Maschi;99;99;99
+2020;Vigentina;Femmine;74;74;74
+2020;Vigentina;Maschi;64;64;64
+2020;Villapizzone;Femmine;228;229;228
+2020;Villapizzone;Maschi;184;180;179
+2020;Vle Monza;Femmine;140;140;140
+2020;Vle Monza;Maschi;137;137;137
+2020;Washington;Femmine;159;159;159
+2020;Washington;Maschi;124;124;124
+2020;XXII Marzo;Femmine;176;176;176
+2020;XXII Marzo;Maschi;143;142;142
+2020;Quartieri residuali;Femmine;22;21;21
+2020;Quartieri residuali;Maschi;10;10;10
+2021;Adriano;Femmine;36;36;36
+2021;Adriano;Maschi;48;48;48
+2021;Affori;Femmine;104;104;104
+2021;Affori;Maschi;102;100;99
+2021;Baggio;Femmine;180;180;180
+2021;Baggio;Maschi;162;162;162
+2021;Bande Nere;Femmine;300;297;297
+2021;Bande Nere;Maschi;242;239;239
+2021;Barona;Femmine;116;117;117
+2021;Barona;Maschi;103;103;103
+2021;Bicocca;Femmine;20;20;20
+2021;Bicocca;Maschi;15;15;15
+2021;Bovisa;Femmine;52;52;52
+2021;Bovisa;Maschi;46;46;46
+2021;Bovisasca;Femmine;42;42;42
+2021;Bovisasca;Maschi;39;39;39
+2021;Brera;Femmine;84;84;84
+2021;Brera;Maschi;81;80;80
+2021;Bruzzano;Femmine;43;43;43
+2021;Bruzzano;Maschi;53;52;52
+2021;Buenos Aires - Venezia;Femmine;344;343;343
+2021;Buenos Aires - Venezia;Maschi;310;309;309
+2021;Centrale;Femmine;80;80;80
+2021;Centrale;Maschi;74;74;74
+2021;Città Studi;Femmine;220;220;220
+2021;Città Studi;Maschi;176;177;177
+2021;Comasina;Femmine;47;47;47
+2021;Comasina;Maschi;38;38;38
+2021;Corsica;Femmine;115;115;115
+2021;Corsica;Maschi;94;94;94
+2021;De Angeli - Monte Rosa;Femmine;120;120;120
+2021;De Angeli - Monte Rosa;Maschi;93;93;93
+2021;Dergano;Femmine;94;94;94
+2021;Dergano;Maschi;92;92;92
+2021;Duomo;Femmine;75;75;75
+2021;Duomo;Maschi;72;71;71
+2021;Ex OM - Morivione;Femmine;55;55;55
+2021;Ex OM - Morivione;Maschi;25;25;25
+2021;Farini;Femmine;7;7;7
+2021;Farini;Maschi;6;6;6
+2021;Forze Armate;Femmine;146;145;145
+2021;Forze Armate;Maschi;128;128;128
+2021;Gallaratese;Femmine;247;248;248
+2021;Gallaratese;Maschi;234;234;234
+2021;Garibaldi Repubblica;Femmine;24;25;25
+2021;Garibaldi Repubblica;Maschi;13;14;14
+2021;Ghisolfa;Femmine;91;90;90
+2021;Ghisolfa;Maschi;78;78;78
+2021;Giambellino;Femmine;169;169;169
+2021;Giambellino;Maschi;128;128;128
+2021;Gratosoglio - Ticinello;Femmine;103;102;102
+2021;Gratosoglio - Ticinello;Maschi;111;111;111
+2021;Greco;Femmine;73;73;73
+2021;Greco;Maschi;70;70;70
+2021;Guastalla;Femmine;72;72;72
+2021;Guastalla;Maschi;67;67;67
+2021;Isola;Femmine;106;105;105
+2021;Isola;Maschi;87;87;87
+2021;Lambrate;Femmine;50;50;50
+2021;Lambrate;Maschi;37;37;37
+2021;Lodi - Corvetto;Femmine;217;215;214
+2021;Lodi - Corvetto;Maschi;181;180;180
+2021;Lorenteggio;Femmine;90;90;90
+2021;Lorenteggio;Maschi;80;79;79
+2021;Loreto;Femmine;203;201;201
+2021;Loreto;Maschi;181;180;180
+2021;Maciachini - Maggiolina;Femmine;155;155;155
+2021;Maciachini - Maggiolina;Maschi;119;119;119
+2021;Magenta - S. Vittore;Femmine;83;83;83
+2021;Magenta - S. Vittore;Maschi;74;74;74
+2021;Maggiore - Musocco;Femmine;19;20;20
+2021;Maggiore - Musocco;Maschi;24;24;24
+2021;Mecenate;Femmine;143;142;142
+2021;Mecenate;Maschi;124;124;124
+2021;Navigli;Femmine;72;72;72
+2021;Navigli;Maschi;58;58;58
+2021;Niguarda - Cà Granda;Femmine;236;236;236
+2021;Niguarda - Cà Granda;Maschi;203;202;202
+2021;Ortomercato;Femmine;19;19;19
+2021;Ortomercato;Maschi;15;15;15
+2021;Padova;Femmine;200;199;197
+2021;Padova;Maschi;170;168;168
+2021;Pagano;Femmine;89;89;89
+2021;Pagano;Maschi;77;77;77
+2021;Parco Lambro - Cimiano;Femmine;143;143;143
+2021;Parco Lambro - Cimiano;Maschi;111;111;111
+2021;Parco Monlué - Ponte Lambro;Femmine;7;6;6
+2021;Parco Monlué - Ponte Lambro;Maschi;5;5;5
+2021;Porta Romana;Femmine;66;66;66
+2021;Porta Romana;Maschi;62;62;62
+2021;Portello;Femmine;49;49;49
+2021;Portello;Maschi;38;38;38
+2021;QT 8;Femmine;26;26;26
+2021;QT 8;Maschi;18;18;18
+2021;Quarto Cagnino;Femmine;39;39;39
+2021;Quarto Cagnino;Maschi;44;44;44
+2021;Quarto Oggiaro;Femmine;188;188;188
+2021;Quarto Oggiaro;Maschi;156;155;155
+2021;Quinto Romano;Femmine;18;18;18
+2021;Quinto Romano;Maschi;16;16;16
+2021;Ripamonti;Femmine;51;51;51
+2021;Ripamonti;Maschi;60;60;60
+2021;Rogoredo;Femmine;26;26;26
+2021;Rogoredo;Maschi;19;19;19
+2021;Ronchetto S/N;Femmine;70;70;70
+2021;Ronchetto S/N;Maschi;79;79;79
+2021;S. Cristoforo;Femmine;63;63;63
+2021;S. Cristoforo;Maschi;62;62;62
+2021;S. Siro;Femmine;49;49;49
+2021;S. Siro;Maschi;58;58;58
+2021;Sarpi;Femmine;157;157;156
+2021;Sarpi;Maschi;122;121;120
+2021;Scalo Romana;Femmine;30;29;29
+2021;Scalo Romana;Maschi;36;36;36
+2021;Selinunte;Femmine;152;152;152
+2021;Selinunte;Maschi;107;107;107
+2021;Stadera;Femmine;179;179;179
+2021;Stadera;Maschi;148;148;147
+2021;Tibaldi;Femmine;65;65;65
+2021;Tibaldi;Maschi;61;61;61
+2021;Ticinese;Femmine;88;87;87
+2021;Ticinese;Maschi;81;81;81
+2021;Tortona;Femmine;75;75;75
+2021;Tortona;Maschi;69;69;69
+2021;Trenno;Femmine;12;12;12
+2021;Trenno;Maschi;16;16;16
+2021;Umbria - Molise;Femmine;124;123;123
+2021;Umbria - Molise;Maschi;96;97;97
+2021;Vigentina;Femmine;73;73;73
+2021;Vigentina;Maschi;66;66;66
+2021;Villapizzone;Femmine;225;226;225
+2021;Villapizzone;Maschi;180;179;178
+2021;Vle Monza;Femmine;140;140;140
+2021;Vle Monza;Maschi;138;138;138
+2021;Washington;Femmine;156;154;154
+2021;Washington;Maschi;122;122;122
+2021;XXII Marzo;Femmine;173;173;173
+2021;XXII Marzo;Maschi;143;142;142
+2021;Quartieri residuali;Femmine;21;21;21
+2021;Quartieri residuali;Maschi;11;11;11
+2022;Adriano;Femmine;37;37;37
+2022;Adriano;Maschi;46;47;47
+2022;Affori;Femmine;111;110;110
+2022;Affori;Maschi;105;104;103
+2022;Baggio;Femmine;181;181;181
+2022;Baggio;Maschi;161;161;161
+2022;Bande Nere;Femmine;297;293;293
+2022;Bande Nere;Maschi;233;232;232
+2022;Barona;Femmine;119;119;119
+2022;Barona;Maschi;100;100;100
+2022;Bicocca;Femmine;19;19;19
+2022;Bicocca;Maschi;14;14;14
+2022;Bovisa;Femmine;51;51;51
+2022;Bovisa;Maschi;49;49;49
+2022;Bovisasca;Femmine;45;45;45
+2022;Bovisasca;Maschi;38;38;38
+2022;Brera;Femmine;83;83;83
+2022;Brera;Maschi;77;77;77
+2022;Bruzzano;Femmine;39;39;39
+2022;Bruzzano;Maschi;53;53;53
+2022;Buenos Aires - Venezia;Femmine;344;344;344
+2022;Buenos Aires - Venezia;Maschi;306;306;305
+2022;Centrale;Femmine;81;81;81
+2022;Centrale;Maschi;72;72;72
+2022;Città Studi;Femmine;218;218;218
+2022;Città Studi;Maschi;169;169;169
+2022;Comasina;Femmine;48;48;48
+2022;Comasina;Maschi;35;35;35
+2022;Corsica;Femmine;114;114;114
+2022;Corsica;Maschi;93;93;93
+2022;De Angeli - Monte Rosa;Femmine;116;116;116
+2022;De Angeli - Monte Rosa;Maschi;93;93;93
+2022;Dergano;Femmine;94;93;93
+2022;Dergano;Maschi;92;91;91
+2022;Duomo;Femmine;74;74;74
+2022;Duomo;Maschi;71;69;69
+2022;Ex OM - Morivione;Femmine;55;55;55
+2022;Ex OM - Morivione;Maschi;25;25;25
+2022;Farini;Femmine;6;6;6
+2022;Farini;Maschi;6;6;6
+2022;Forze Armate;Femmine;147;147;147
+2022;Forze Armate;Maschi;127;126;126
+2022;Gallaratese;Femmine;251;250;250
+2022;Gallaratese;Maschi;229;228;228
+2022;Garibaldi Repubblica;Femmine;27;27;27
+2022;Garibaldi Repubblica;Maschi;15;15;15
+2022;Ghisolfa;Femmine;85;84;84
+2022;Ghisolfa;Maschi;76;76;76
+2022;Giambellino;Femmine;167;167;167
+2022;Giambellino;Maschi;127;127;127
+2022;Gratosoglio - Ticinello;Femmine;100;100;100
+2022;Gratosoglio - Ticinello;Maschi;111;111;111
+2022;Greco;Femmine;70;70;70
+2022;Greco;Maschi;70;70;70
+2022;Guastalla;Femmine;72;71;71
+2022;Guastalla;Maschi;68;68;68
+2022;Isola;Femmine;103;103;103
+2022;Isola;Maschi;89;89;89
+2022;Lambrate;Femmine;50;50;50
+2022;Lambrate;Maschi;33;33;33
+2022;Lodi - Corvetto;Femmine;218;218;217
+2022;Lodi - Corvetto;Maschi;176;176;176
+2022;Lorenteggio;Femmine;91;91;91
+2022;Lorenteggio;Maschi;77;77;77
+2022;Loreto;Femmine;202;200;200
+2022;Loreto;Maschi;184;183;181
+2022;Maciachini - Maggiolina;Femmine;154;154;154
+2022;Maciachini - Maggiolina;Maschi;122;121;121
+2022;Magenta - S. Vittore;Femmine;84;84;84
+2022;Magenta - S. Vittore;Maschi;73;72;72
+2022;Maggiore - Musocco;Femmine;19;19;19
+2022;Maggiore - Musocco;Maschi;24;24;24
+2022;Mecenate;Femmine;146;146;146
+2022;Mecenate;Maschi;120;120;120
+2022;Navigli;Femmine;74;74;74
+2022;Navigli;Maschi;58;58;58
+2022;Niguarda - Cà Granda;Femmine;238;238;238
+2022;Niguarda - Cà Granda;Maschi;198;197;197
+2022;Ortomercato;Femmine;20;20;20
+2022;Ortomercato;Maschi;13;13;13
+2022;Padova;Femmine;199;197;194
+2022;Padova;Maschi;169;166;166
+2022;Pagano;Femmine;86;85;85
+2022;Pagano;Maschi;75;74;74
+2022;Parco Lambro - Cimiano;Femmine;145;145;145
+2022;Parco Lambro - Cimiano;Maschi;110;110;110
+2022;Parco Monlué - Ponte Lambro;Femmine;6;6;6
+2022;Parco Monlué - Ponte Lambro;Maschi;4;4;4
+2022;Porta Romana;Femmine;70;70;70
+2022;Porta Romana;Maschi;61;62;62
+2022;Portello;Femmine;45;45;45
+2022;Portello;Maschi;38;38;38
+2022;QT 8;Femmine;25;25;25
+2022;QT 8;Maschi;18;18;18
+2022;Quarto Cagnino;Femmine;39;39;39
+2022;Quarto Cagnino;Maschi;45;45;45
+2022;Quarto Oggiaro;Femmine;188;188;188
+2022;Quarto Oggiaro;Maschi;153;152;152
+2022;Quinto Romano;Femmine;19;19;19
+2022;Quinto Romano;Maschi;14;14;14
+2022;Ripamonti;Femmine;53;53;53
+2022;Ripamonti;Maschi;61;61;61
+2022;Rogoredo;Femmine;26;26;26
+2022;Rogoredo;Maschi;17;17;17
+2022;Ronchetto S/N;Femmine;70;70;70
+2022;Ronchetto S/N;Maschi;78;77;77
+2022;S. Cristoforo;Femmine;62;62;62
+2022;S. Cristoforo;Maschi;59;59;59
+2022;S. Siro;Femmine;50;50;50
+2022;S. Siro;Maschi;59;58;58
+2022;Sarpi;Femmine;158;158;157
+2022;Sarpi;Maschi;119;119;118
+2022;Scalo Romana;Femmine;29;29;29
+2022;Scalo Romana;Maschi;36;36;36
+2022;Selinunte;Femmine;150;150;150
+2022;Selinunte;Maschi;104;104;104
+2022;Stadera;Femmine;180;180;180
+2022;Stadera;Maschi;145;145;144
+2022;Tibaldi;Femmine;66;66;66
+2022;Tibaldi;Maschi;60;60;60
+2022;Ticinese;Femmine;88;88;88
+2022;Ticinese;Maschi;79;80;80
+2022;Tortona;Femmine;76;76;76
+2022;Tortona;Maschi;71;71;71
+2022;Trenno;Femmine;15;14;14
+2022;Trenno;Maschi;18;18;18
+2022;Umbria - Molise;Femmine;122;121;121
+2022;Umbria - Molise;Maschi;94;94;94
+2022;Vigentina;Femmine;72;72;72
+2022;Vigentina;Maschi;65;65;65
+2022;Villapizzone;Femmine;225;226;225
+2022;Villapizzone;Maschi;180;178;178
+2022;Vle Monza;Femmine;142;142;142
+2022;Vle Monza;Maschi;136;137;137
+2022;Washington;Femmine;156;155;155
+2022;Washington;Maschi;118;118;118
+2022;XXII Marzo;Femmine;171;171;171
+2022;XXII Marzo;Maschi;139;139;139
+2022;Quartieri residuali;Femmine;21;21;21
+2022;Quartieri residuali;Maschi;10;11;11
+2023;Adriano;Femmine;36;36;36
+2023;Adriano;Maschi;51;51;51
+2023;Affori;Femmine;110;110;110
+2023;Affori;Maschi;105;103;102
+2023;Baggio;Femmine;185;185;185
+2023;Baggio;Maschi;158;158;158
+2023;Bande Nere;Femmine;288;286;286
+2023;Bande Nere;Maschi;230;229;229
+2023;Barona;Femmine;123;123;123
+2023;Barona;Maschi;101;101;101
+2023;Bicocca;Femmine;17;18;18
+2023;Bicocca;Maschi;16;17;17
+2023;Bovisa;Femmine;52;52;52
+2023;Bovisa;Maschi;48;48;48
+2023;Bovisasca;Femmine;46;46;46
+2023;Bovisasca;Maschi;40;38;38
+2023;Brera;Femmine;83;83;83
+2023;Brera;Maschi;77;77;77
+2023;Bruzzano;Femmine;36;36;36
+2023;Bruzzano;Maschi;53;53;53
+2023;Buenos Aires - Venezia;Femmine;342;342;342
+2023;Buenos Aires - Venezia;Maschi;307;307;306
+2023;Centrale;Femmine;82;82;82
+2023;Centrale;Maschi;73;73;73
+2023;Città Studi;Femmine;215;215;215
+2023;Città Studi;Maschi;168;169;169
+2023;Comasina;Femmine;48;48;48
+2023;Comasina;Maschi;37;38;38
+2023;Corsica;Femmine;114;114;114
+2023;Corsica;Maschi;92;92;92
+2023;De Angeli - Monte Rosa;Femmine;117;118;118
+2023;De Angeli - Monte Rosa;Maschi;90;90;90
+2023;Dergano;Femmine;91;91;91
+2023;Dergano;Maschi;90;90;90
+2023;Duomo;Femmine;76;76;76
+2023;Duomo;Maschi;69;69;69
+2023;Ex OM - Morivione;Femmine;56;56;56
+2023;Ex OM - Morivione;Maschi;24;24;24
+2023;Farini;Femmine;6;6;6
+2023;Farini;Maschi;6;6;6
+2023;Forze Armate;Femmine;147;147;147
+2023;Forze Armate;Maschi;129;129;129
+2023;Gallaratese;Femmine;252;252;252
+2023;Gallaratese;Maschi;223;223;223
+2023;Garibaldi Repubblica;Femmine;26;26;26
+2023;Garibaldi Repubblica;Maschi;15;15;15
+2023;Ghisolfa;Femmine;86;85;85
+2023;Ghisolfa;Maschi;74;74;74
+2023;Giambellino;Femmine;163;163;163
+2023;Giambellino;Maschi;128;128;127
+2023;Gratosoglio - Ticinello;Femmine;100;100;100
+2023;Gratosoglio - Ticinello;Maschi;108;108;108
+2023;Greco;Femmine;70;70;70
+2023;Greco;Maschi;71;71;71
+2023;Guastalla;Femmine;70;70;70
+2023;Guastalla;Maschi;69;70;70
+2023;Isola;Femmine;103;101;101
+2023;Isola;Maschi;89;89;89
+2023;Lambrate;Femmine;51;51;51
+2023;Lambrate;Maschi;33;33;33
+2023;Lodi - Corvetto;Femmine;213;212;211
+2023;Lodi - Corvetto;Maschi;175;175;175
+2023;Lorenteggio;Femmine;89;88;88
+2023;Lorenteggio;Maschi;75;75;75
+2023;Loreto;Femmine;205;203;202
+2023;Loreto;Maschi;183;183;182
+2023;Maciachini - Maggiolina;Femmine;153;153;153
+2023;Maciachini - Maggiolina;Maschi;119;119;119
+2023;Magenta - S. Vittore;Femmine;83;83;83
+2023;Magenta - S. Vittore;Maschi;78;78;78
+2023;Maggiore - Musocco;Femmine;20;20;20
+2023;Maggiore - Musocco;Maschi;26;24;24
+2023;Mecenate;Femmine;143;143;143
+2023;Mecenate;Maschi;121;121;121
+2023;Navigli;Femmine;73;73;73
+2023;Navigli;Maschi;56;56;56
+2023;Niguarda - Cà Granda;Femmine;232;232;232
+2023;Niguarda - Cà Granda;Maschi;198;197;197
+2023;Ortomercato;Femmine;19;20;20
+2023;Ortomercato;Maschi;12;12;12
+2023;Padova;Femmine;196;193;190
+2023;Padova;Maschi;166;165;165
+2023;Pagano;Femmine;84;84;84
+2023;Pagano;Maschi;73;73;73
+2023;Parco Lambro - Cimiano;Femmine;139;139;139
+2023;Parco Lambro - Cimiano;Maschi;110;110;110
+2023;Parco Monlué - Ponte Lambro;Femmine;6;6;6
+2023;Parco Monlué - Ponte Lambro;Maschi;4;3;3
+2023;Porta Romana;Femmine;68;68;68
+2023;Porta Romana;Maschi;63;63;63
+2023;Portello;Femmine;45;45;45
+2023;Portello;Maschi;36;36;36
+2023;QT 8;Femmine;24;23;23
+2023;QT 8;Maschi;18;18;18
+2023;Quarto Cagnino;Femmine;37;37;37
+2023;Quarto Cagnino;Maschi;45;44;44
+2023;Quarto Oggiaro;Femmine;182;182;182
+2023;Quarto Oggiaro;Maschi;151;150;150
+2023;Quinto Romano;Femmine;18;18;18
+2023;Quinto Romano;Maschi;15;15;15
+2023;Ripamonti;Femmine;50;50;50
+2023;Ripamonti;Maschi;61;60;60
+2023;Rogoredo;Femmine;26;26;26
+2023;Rogoredo;Maschi;16;16;16
+2023;Ronchetto S/N;Femmine;70;70;70
+2023;Ronchetto S/N;Maschi;76;76;76
+2023;S. Cristoforo;Femmine;63;63;63
+2023;S. Cristoforo;Maschi;60;60;60
+2023;S. Siro;Femmine;50;50;50
+2023;S. Siro;Maschi;55;54;54
+2023;Sarpi;Femmine;155;155;154
+2023;Sarpi;Maschi;116;116;116
+2023;Scalo Romana;Femmine;28;28;28
+2023;Scalo Romana;Maschi;36;37;37
+2023;Selinunte;Femmine;149;148;148
+2023;Selinunte;Maschi;104;104;104
+2023;Stadera;Femmine;180;180;180
+2023;Stadera;Maschi;145;145;144
+2023;Tibaldi;Femmine;65;65;65
+2023;Tibaldi;Maschi;59;58;58
+2023;Ticinese;Femmine;85;85;85
+2023;Ticinese;Maschi;81;80;80
+2023;Tortona;Femmine;74;74;74
+2023;Tortona;Maschi;70;70;70
+2023;Trenno;Femmine;13;13;13
+2023;Trenno;Maschi;16;16;16
+2023;Umbria - Molise;Femmine;116;116;116
+2023;Umbria - Molise;Maschi;94;94;94
+2023;Vigentina;Femmine;73;73;73
+2023;Vigentina;Maschi;65;65;65
+2023;Villapizzone;Femmine;219;219;218
+2023;Villapizzone;Maschi;181;176;175
+2023;Vle Monza;Femmine;143;143;143
+2023;Vle Monza;Maschi;141;141;141
+2023;Washington;Femmine;151;150;150
+2023;Washington;Maschi;118;118;118
+2023;XXII Marzo;Femmine;170;170;170
+2023;XXII Marzo;Maschi;136;135;135
+2023;Quartieri residuali;Femmine;24;23;23
+2023;Quartieri residuali;Maschi;11;11;11
+2024;Adriano;Femmine;36;36;36
+2024;Adriano;Maschi;50;50;50
+2024;Affori;Femmine;111;110;110
+2024;Affori;Maschi;102;102;101
+2024;Baggio;Femmine;181;180;180
+2024;Baggio;Maschi;157;157;157
+2024;Bande Nere;Femmine;283;283;283
+2024;Bande Nere;Maschi;220;220;220
+2024;Barona;Femmine;124;124;124
+2024;Barona;Maschi;100;100;100
+2024;Bicocca;Femmine;18;18;18
+2024;Bicocca;Maschi;16;16;16
+2024;Bovisa;Femmine;51;51;51
+2024;Bovisa;Maschi;49;49;49
+2024;Bovisasca;Femmine;45;45;45
+2024;Bovisasca;Maschi;37;37;37
+2024;Brera;Femmine;83;83;83
+2024;Brera;Maschi;76;76;76
+2024;Bruzzano;Femmine;38;39;39
+2024;Bruzzano;Maschi;52;52;52
+2024;Buenos Aires - Venezia;Femmine;336;336;336
+2024;Buenos Aires - Venezia;Maschi;301;302;301
+2024;Centrale;Femmine;80;78;78
+2024;Centrale;Maschi;72;71;71
+2024;Città Studi;Femmine;212;212;211
+2024;Città Studi;Maschi;167;167;167
+2024;Comasina;Femmine;47;47;47
+2024;Comasina;Maschi;33;33;33
+2024;Corsica;Femmine;110;110;110
+2024;Corsica;Maschi;88;88;88
+2024;De Angeli - Monte Rosa;Femmine;114;114;114
+2024;De Angeli - Monte Rosa;Maschi;87;86;86
+2024;Dergano;Femmine;94;94;94
+2024;Dergano;Maschi;92;92;92
+2024;Duomo;Femmine;75;75;75
+2024;Duomo;Maschi;69;69;69
+2024;Ex OM - Morivione;Femmine;57;57;57
+2024;Ex OM - Morivione;Maschi;25;25;25
+2024;Farini;Femmine;6;6;6
+2024;Farini;Maschi;6;6;6
+2024;Forze Armate;Femmine;149;149;149
+2024;Forze Armate;Maschi;128;128;128
+2024;Gallaratese;Femmine;253;253;253
+2024;Gallaratese;Maschi;219;219;219
+2024;Garibaldi Repubblica;Femmine;27;27;27
+2024;Garibaldi Repubblica;Maschi;14;14;14
+2024;Ghisolfa;Femmine;82;82;82
+2024;Ghisolfa;Maschi;72;72;72
+2024;Giambellino;Femmine;160;160;160
+2024;Giambellino;Maschi;124;124;123
+2024;Gratosoglio - Ticinello;Femmine;97;97;97
+2024;Gratosoglio - Ticinello;Maschi;110;111;111
+2024;Greco;Femmine;69;69;69
+2024;Greco;Maschi;71;71;71
+2024;Guastalla;Femmine;69;68;68
+2024;Guastalla;Maschi;67;67;67
+2024;Isola;Femmine;100;99;99
+2024;Isola;Maschi;86;85;85
+2024;Lambrate;Femmine;50;50;50
+2024;Lambrate;Maschi;33;33;33
+2024;Lodi - Corvetto;Femmine;207;205;205
+2024;Lodi - Corvetto;Maschi;172;172;172
+2024;Lorenteggio;Femmine;90;90;90
+2024;Lorenteggio;Maschi;73;73;73
+2024;Loreto;Femmine;198;197;195
+2024;Loreto;Maschi;185;183;183
+2024;Maciachini - Maggiolina;Femmine;149;149;149
+2024;Maciachini - Maggiolina;Maschi;121;121;121
+2024;Magenta - S. Vittore;Femmine;84;84;84
+2024;Magenta - S. Vittore;Maschi;75;75;75
+2024;Maggiore - Musocco;Femmine;19;18;18
+2024;Maggiore - Musocco;Maschi;26;26;26
+2024;Mecenate;Femmine;142;143;143
+2024;Mecenate;Maschi;118;118;118
+2024;Navigli;Femmine;71;72;72
+2024;Navigli;Maschi;54;53;53
+2024;Niguarda - Cà Granda;Femmine;230;230;230
+2024;Niguarda - Cà Granda;Maschi;191;191;191
+2024;Ortomercato;Femmine;18;18;18
+2024;Ortomercato;Maschi;12;12;12
+2024;Padova;Femmine;196;191;189
+2024;Padova;Maschi;162;160;160
+2024;Pagano;Femmine;88;87;87
+2024;Pagano;Maschi;72;72;72
+2024;Parco Lambro - Cimiano;Femmine;136;137;137
+2024;Parco Lambro - Cimiano;Maschi;105;105;105
+2024;Parco Monlué - Ponte Lambro;Femmine;5;5;5
+2024;Parco Monlué - Ponte Lambro;Maschi;3;3;3
+2024;Porta Romana;Femmine;67;66;66
+2024;Porta Romana;Maschi;63;63;63
+2024;Portello;Femmine;45;44;44
+2024;Portello;Maschi;39;39;39
+2024;QT 8;Femmine;25;25;25
+2024;QT 8;Maschi;18;18;18
+2024;Quarto Cagnino;Femmine;39;39;39
+2024;Quarto Cagnino;Maschi;45;45;45
+2024;Quarto Oggiaro;Femmine;180;181;181
+2024;Quarto Oggiaro;Maschi;149;148;148
+2024;Quinto Romano;Femmine;19;19;19
+2024;Quinto Romano;Maschi;15;15;15
+2024;Ripamonti;Femmine;46;46;46
+2024;Ripamonti;Maschi;60;58;58
+2024;Rogoredo;Femmine;24;24;24
+2024;Rogoredo;Maschi;17;16;16
+2024;Ronchetto S/N;Femmine;68;66;66
+2024;Ronchetto S/N;Maschi;73;73;73
+2024;S. Cristoforo;Femmine;65;65;65
+2024;S. Cristoforo;Maschi;60;60;60
+2024;S. Siro;Femmine;49;49;49
+2024;S. Siro;Maschi;56;56;56
+2024;Sarpi;Femmine;150;150;149
+2024;Sarpi;Maschi;115;113;113
+2024;Scalo Romana;Femmine;27;28;28
+2024;Scalo Romana;Maschi;37;37;37
+2024;Selinunte;Femmine;143;142;142
+2024;Selinunte;Maschi;105;104;104
+2024;Stadera;Femmine;178;178;178
+2024;Stadera;Maschi;142;142;141
+2024;Tibaldi;Femmine;66;65;65
+2024;Tibaldi;Maschi;61;61;61
+2024;Ticinese;Femmine;84;83;83
+2024;Ticinese;Maschi;75;75;75
+2024;Tortona;Femmine;73;73;73
+2024;Tortona;Maschi;70;70;70
+2024;Trenno;Femmine;12;12;12
+2024;Trenno;Maschi;17;17;17
+2024;Umbria - Molise;Femmine;118;117;117
+2024;Umbria - Molise;Maschi;94;94;94
+2024;Vigentina;Femmine;73;73;73
+2024;Vigentina;Maschi;63;63;63
+2024;Villapizzone;Femmine;216;217;216
+2024;Villapizzone;Maschi;180;176;174
+2024;Vle Monza;Femmine;142;142;142
+2024;Vle Monza;Maschi;142;141;141
+2024;Washington;Femmine;151;151;151
+2024;Washington;Maschi;115;114;114
+2024;XXII Marzo;Femmine;167;166;166
+2024;XXII Marzo;Maschi;135;135;135
+2024;Quartieri residuali;Femmine;22;22;22
+2024;Quartieri residuali;Maschi;10;10;10
+2025;Adriano;Femmine;37;37;37
+2025;Adriano;Maschi;50;50;50
+2025;Affori;Femmine;108;106;106
+2025;Affori;Maschi;104;101;100
+2025;Baggio;Femmine;182;182;182
+2025;Baggio;Maschi;154;154;154
+2025;Bande Nere;Femmine;282;282;282
+2025;Bande Nere;Maschi;220;219;219
+2025;Barona;Femmine;126;126;126
+2025;Barona;Maschi;99;99;99
+2025;Bicocca;Femmine;15;15;15
+2025;Bicocca;Maschi;14;15;15
+2025;Bovisa;Femmine;52;52;52
+2025;Bovisa;Maschi;51;51;51
+2025;Bovisasca;Femmine;45;45;45
+2025;Bovisasca;Maschi;39;39;39
+2025;Brera;Femmine;83;83;83
+2025;Brera;Maschi;78;78;78
+2025;Bruzzano;Femmine;35;35;35
+2025;Bruzzano;Maschi;50;50;50
+2025;Buenos Aires - Venezia;Femmine;335;335;335
+2025;Buenos Aires - Venezia;Maschi;302;301;299
+2025;Centrale;Femmine;81;81;81
+2025;Centrale;Maschi;70;70;70
+2025;Città Studi;Femmine;209;209;208
+2025;Città Studi;Maschi;167;166;166
+2025;Comasina;Femmine;48;48;48
+2025;Comasina;Maschi;37;35;35
+2025;Corsica;Femmine;113;112;112
+2025;Corsica;Maschi;90;90;90
+2025;De Angeli - Monte Rosa;Femmine;110;110;110
+2025;De Angeli - Monte Rosa;Maschi;88;86;86
+2025;Dergano;Femmine;97;96;96
+2025;Dergano;Maschi;92;92;92
+2025;Duomo;Femmine;73;73;73
+2025;Duomo;Maschi;67;67;67
+2025;Ex OM - Morivione;Femmine;57;57;57
+2025;Ex OM - Morivione;Maschi;26;25;25
+2025;Farini;Femmine;7;7;7
+2025;Farini;Maschi;5;5;5
+2025;Forze Armate;Femmine;149;149;149
+2025;Forze Armate;Maschi;130;129;129
+2025;Gallaratese;Femmine;254;254;254
+2025;Gallaratese;Maschi;218;218;218
+2025;Garibaldi Repubblica;Femmine;29;29;29
+2025;Garibaldi Repubblica;Maschi;14;14;14
+2025;Ghisolfa;Femmine;83;82;82
+2025;Ghisolfa;Maschi;73;73;73
+2025;Giambellino;Femmine;160;160;160
+2025;Giambellino;Maschi;124;123;122
+2025;Gratosoglio - Ticinello;Femmine;102;102;102
+2025;Gratosoglio - Ticinello;Maschi;108;108;108
+2025;Greco;Femmine;70;70;70
+2025;Greco;Maschi;68;68;68
+2025;Guastalla;Femmine;68;68;68
+2025;Guastalla;Maschi;65;65;65
+2025;Isola;Femmine;100;98;98
+2025;Isola;Maschi;89;88;88
+2025;Lambrate;Femmine;50;50;50
+2025;Lambrate;Maschi;31;30;30
+2025;Lodi - Corvetto;Femmine;203;201;201
+2025;Lodi - Corvetto;Maschi;170;170;170
+2025;Lorenteggio;Femmine;87;86;86
+2025;Lorenteggio;Maschi;75;75;75
+2025;Loreto;Femmine;197;197;194
+2025;Loreto;Maschi;184;181;180
+2025;Maciachini - Maggiolina;Femmine;149;149;149
+2025;Maciachini - Maggiolina;Maschi;118;117;117
+2025;Magenta - S. Vittore;Femmine;79;79;79
+2025;Magenta - S. Vittore;Maschi;72;72;72
+2025;Maggiore - Musocco;Femmine;18;18;18
+2025;Maggiore - Musocco;Maschi;27;27;27
+2025;Mecenate;Femmine;145;145;145
+2025;Mecenate;Maschi;118;117;117
+2025;Navigli;Femmine;70;70;70
+2025;Navigli;Maschi;58;58;58
+2025;Niguarda - Cà Granda;Femmine;232;231;231
+2025;Niguarda - Cà Granda;Maschi;191;190;190
+2025;Ortomercato;Femmine;18;18;18
+2025;Ortomercato;Maschi;12;12;12
+2025;Padova;Femmine;195;191;189
+2025;Padova;Maschi;157;156;156
+2025;Pagano;Femmine;85;85;85
+2025;Pagano;Maschi;71;71;71
+2025;Parco Lambro - Cimiano;Femmine;136;136;136
+2025;Parco Lambro - Cimiano;Maschi;102;102;102
+2025;Parco Monlué - Ponte Lambro;Femmine;6;6;6
+2025;Parco Monlué - Ponte Lambro;Maschi;3;3;3
+2025;Porta Romana;Femmine;67;68;68
+2025;Porta Romana;Maschi;60;60;60
+2025;Portello;Femmine;45;45;45
+2025;Portello;Maschi;35;35;35
+2025;QT 8;Femmine;23;23;23
+2025;QT 8;Maschi;18;18;18
+2025;Quarto Cagnino;Femmine;38;38;38
+2025;Quarto Cagnino;Maschi;47;47;47
+2025;Quarto Oggiaro;Femmine;180;180;180
+2025;Quarto Oggiaro;Maschi;148;147;147
+2025;Quinto Romano;Femmine;17;17;17
+2025;Quinto Romano;Maschi;16;16;16
+2025;Ripamonti;Femmine;50;48;48
+2025;Ripamonti;Maschi;64;64;64
+2025;Rogoredo;Femmine;25;26;26
+2025;Rogoredo;Maschi;16;16;16
+2025;Ronchetto S/N;Femmine;69;69;69
+2025;Ronchetto S/N;Maschi;74;74;74
+2025;S. Cristoforo;Femmine;63;63;63
+2025;S. Cristoforo;Maschi;60;60;60
+2025;S. Siro;Femmine;47;47;47
+2025;S. Siro;Maschi;55;55;55
+2025;Sarpi;Femmine;147;148;147
+2025;Sarpi;Maschi;113;112;112
+2025;Scalo Romana;Femmine;29;29;29
+2025;Scalo Romana;Maschi;34;34;34
+2025;Selinunte;Femmine;143;142;142
+2025;Selinunte;Maschi;104;104;104
+2025;Stadera;Femmine;184;183;183
+2025;Stadera;Maschi;142;142;141
+2025;Tibaldi;Femmine;66;66;66
+2025;Tibaldi;Maschi;59;59;59
+2025;Ticinese;Femmine;83;83;83
+2025;Ticinese;Maschi;76;76;76
+2025;Tortona;Femmine;72;73;73
+2025;Tortona;Maschi;69;69;69
+2025;Trenno;Femmine;13;13;13
+2025;Trenno;Maschi;19;18;18
+2025;Umbria - Molise;Femmine;114;114;114
+2025;Umbria - Molise;Maschi;89;89;89
+2025;Vigentina;Femmine;73;73;73
+2025;Vigentina;Maschi;66;66;66
+2025;Villapizzone;Femmine;213;212;211
+2025;Villapizzone;Maschi;179;178;176
+2025;Vle Monza;Femmine;144;144;144
+2025;Vle Monza;Maschi;140;142;142
+2025;Washington;Femmine;149;149;149
+2025;Washington;Maschi;116;115;115
+2025;XXII Marzo;Femmine;168;168;168
+2025;XXII Marzo;Maschi;134;134;134
+2025;Quartieri residuali;Femmine;21;21;21
+2025;Quartieri residuali;Maschi;11;11;11
+2026;Adriano;Femmine;37;37;37
+2026;Adriano;Maschi;53;52;52
+2026;Affori;Femmine;110;109;109
+2026;Affori;Maschi;105;102;101
+2026;Baggio;Femmine;180;180;180
+2026;Baggio;Maschi;152;152;152
+2026;Bande Nere;Femmine;274;273;273
+2026;Bande Nere;Maschi;210;207;207
+2026;Barona;Femmine;127;126;126
+2026;Barona;Maschi;101;101;101
+2026;Bicocca;Femmine;16;16;16
+2026;Bicocca;Maschi;16;16;16
+2026;Bovisa;Femmine;49;49;49
+2026;Bovisa;Maschi;51;51;51
+2026;Bovisasca;Femmine;46;45;45
+2026;Bovisasca;Maschi;36;36;36
+2026;Brera;Femmine;84;84;84
+2026;Brera;Maschi;78;78;78
+2026;Bruzzano;Femmine;37;36;36
+2026;Bruzzano;Maschi;53;53;53
+2026;Buenos Aires - Venezia;Femmine;334;334;334
+2026;Buenos Aires - Venezia;Maschi;301;301;299
+2026;Centrale;Femmine;81;80;80
+2026;Centrale;Maschi;72;72;72
+2026;Città Studi;Femmine;203;202;202
+2026;Città Studi;Maschi;164;163;163
+2026;Comasina;Femmine;47;47;47
+2026;Comasina;Maschi;36;36;36
+2026;Corsica;Femmine;107;107;107
+2026;Corsica;Maschi;87;87;87
+2026;De Angeli - Monte Rosa;Femmine;109;108;108
+2026;De Angeli - Monte Rosa;Maschi;86;86;86
+2026;Dergano;Femmine;100;100;100
+2026;Dergano;Maschi;91;90;90
+2026;Duomo;Femmine;75;74;74
+2026;Duomo;Maschi;65;65;65
+2026;Ex OM - Morivione;Femmine;57;57;57
+2026;Ex OM - Morivione;Maschi;25;25;25
+2026;Farini;Femmine;5;4;4
+2026;Farini;Maschi;5;5;5
+2026;Forze Armate;Femmine;148;147;147
+2026;Forze Armate;Maschi;131;131;131
+2026;Gallaratese;Femmine;251;251;251
+2026;Gallaratese;Maschi;210;210;210
+2026;Garibaldi Repubblica;Femmine;27;27;27
+2026;Garibaldi Repubblica;Maschi;13;13;13
+2026;Ghisolfa;Femmine;82;83;83
+2026;Ghisolfa;Maschi;74;74;74
+2026;Giambellino;Femmine;157;155;155
+2026;Giambellino;Maschi;124;124;123
+2026;Gratosoglio - Ticinello;Femmine;99;99;99
+2026;Gratosoglio - Ticinello;Maschi;101;101;101
+2026;Greco;Femmine;69;69;69
+2026;Greco;Maschi;70;70;70
+2026;Guastalla;Femmine;71;71;71
+2026;Guastalla;Maschi;66;66;66
+2026;Isola;Femmine;98;96;96
+2026;Isola;Maschi;88;88;88
+2026;Lambrate;Femmine;47;47;47
+2026;Lambrate;Maschi;31;31;31
+2026;Lodi - Corvetto;Femmine;200;199;198
+2026;Lodi - Corvetto;Maschi;167;167;167
+2026;Lorenteggio;Femmine;85;85;85
+2026;Lorenteggio;Maschi;75;75;75
+2026;Loreto;Femmine;196;195;191
+2026;Loreto;Maschi;184;181;180
+2026;Maciachini - Maggiolina;Femmine;144;144;144
+2026;Maciachini - Maggiolina;Maschi;117;116;116
+2026;Magenta - S. Vittore;Femmine;78;78;78
+2026;Magenta - S. Vittore;Maschi;73;71;71
+2026;Maggiore - Musocco;Femmine;17;18;18
+2026;Maggiore - Musocco;Maschi;24;24;24
+2026;Mecenate;Femmine;140;140;140
+2026;Mecenate;Maschi;116;113;113
+2026;Navigli;Femmine;71;71;71
+2026;Navigli;Maschi;55;56;56
+2026;Niguarda - Cà Granda;Femmine;228;228;228
+2026;Niguarda - Cà Granda;Maschi;187;186;186
+2026;Ortomercato;Femmine;18;18;18
+2026;Ortomercato;Maschi;11;11;11
+2026;Padova;Femmine;193;187;186
+2026;Padova;Maschi;157;155;155
+2026;Pagano;Femmine;88;86;86
+2026;Pagano;Maschi;70;69;69
+2026;Parco Lambro - Cimiano;Femmine;129;129;129
+2026;Parco Lambro - Cimiano;Maschi;101;101;101
+2026;Parco Monlué - Ponte Lambro;Femmine;5;5;5
+2026;Parco Monlué - Ponte Lambro;Maschi;4;4;4
+2026;Porta Romana;Femmine;67;67;67
+2026;Porta Romana;Maschi;59;59;59
+2026;Portello;Femmine;41;41;41
+2026;Portello;Maschi;36;36;36
+2026;QT 8;Femmine;23;23;23
+2026;QT 8;Maschi;16;16;16
+2026;Quarto Cagnino;Femmine;39;39;39
+2026;Quarto Cagnino;Maschi;46;46;46
+2026;Quarto Oggiaro;Femmine;178;178;178
+2026;Quarto Oggiaro;Maschi;146;145;145
+2026;Quinto Romano;Femmine;19;18;18
+2026;Quinto Romano;Maschi;15;15;15
+2026;Ripamonti;Femmine;50;50;50
+2026;Ripamonti;Maschi;56;56;56
+2026;Rogoredo;Femmine;24;24;24
+2026;Rogoredo;Maschi;16;16;16
+2026;Ronchetto S/N;Femmine;64;64;64
+2026;Ronchetto S/N;Maschi;74;71;71
+2026;S. Cristoforo;Femmine;64;63;63
+2026;S. Cristoforo;Maschi;61;61;61
+2026;S. Siro;Femmine;47;47;47
+2026;S. Siro;Maschi;59;58;58
+2026;Sarpi;Femmine;147;147;146
+2026;Sarpi;Maschi;106;105;105
+2026;Scalo Romana;Femmine;27;27;27
+2026;Scalo Romana;Maschi;37;37;37
+2026;Selinunte;Femmine;140;140;140
+2026;Selinunte;Maschi;101;101;101
+2026;Stadera;Femmine;179;179;179
+2026;Stadera;Maschi;134;134;133
+2026;Tibaldi;Femmine;66;66;66
+2026;Tibaldi;Maschi;61;62;62
+2026;Ticinese;Femmine;83;83;83
+2026;Ticinese;Maschi;77;77;77
+2026;Tortona;Femmine;74;74;74
+2026;Tortona;Maschi;69;69;69
+2026;Trenno;Femmine;13;13;13
+2026;Trenno;Maschi;16;16;16
+2026;Umbria - Molise;Femmine;112;112;112
+2026;Umbria - Molise;Maschi;86;86;86
+2026;Vigentina;Femmine;71;71;71
+2026;Vigentina;Maschi;64;64;64
+2026;Villapizzone;Femmine;211;212;210
+2026;Villapizzone;Maschi;175;176;173
+2026;Vle Monza;Femmine;143;143;143
+2026;Vle Monza;Maschi;142;143;143
+2026;Washington;Femmine;148;148;148
+2026;Washington;Maschi;112;112;112
+2026;XXII Marzo;Femmine;166;166;166
+2026;XXII Marzo;Maschi;131;131;131
+2026;Quartieri residuali;Femmine;21;22;22
+2026;Quartieri residuali;Maschi;10;10;10
+2027;Adriano;Femmine;37;37;37
+2027;Adriano;Maschi;50;50;50
+2027;Affori;Femmine;107;106;106
+2027;Affori;Maschi;105;105;104
+2027;Baggio;Femmine;178;179;179
+2027;Baggio;Maschi;152;152;152
+2027;Bande Nere;Femmine;265;265;265
+2027;Bande Nere;Maschi;203;202;202
+2027;Barona;Femmine;126;124;124
+2027;Barona;Maschi;100;99;99
+2027;Bicocca;Femmine;15;15;15
+2027;Bicocca;Maschi;11;11;11
+2027;Bovisa;Femmine;49;49;49
+2027;Bovisa;Maschi;50;50;50
+2027;Bovisasca;Femmine;45;45;45
+2027;Bovisasca;Maschi;38;38;38
+2027;Brera;Femmine;83;82;82
+2027;Brera;Maschi;73;72;72
+2027;Bruzzano;Femmine;35;35;35
+2027;Bruzzano;Maschi;51;51;51
+2027;Buenos Aires - Venezia;Femmine;331;329;329
+2027;Buenos Aires - Venezia;Maschi;296;296;294
+2027;Centrale;Femmine;81;81;81
+2027;Centrale;Maschi;69;69;69
+2027;Città Studi;Femmine;199;198;198
+2027;Città Studi;Maschi;161;160;160
+2027;Comasina;Femmine;47;46;46
+2027;Comasina;Maschi;36;36;36
+2027;Corsica;Femmine;104;104;104
+2027;Corsica;Maschi;86;86;86
+2027;De Angeli - Monte Rosa;Femmine;111;108;108
+2027;De Angeli - Monte Rosa;Maschi;83;83;83
+2027;Dergano;Femmine;95;94;94
+2027;Dergano;Maschi;93;93;93
+2027;Duomo;Femmine;72;72;72
+2027;Duomo;Maschi;64;64;64
+2027;Ex OM - Morivione;Femmine;57;57;57
+2027;Ex OM - Morivione;Maschi;22;22;22
+2027;Farini;Femmine;5;5;5
+2027;Farini;Maschi;6;6;6
+2027;Forze Armate;Femmine;150;150;150
+2027;Forze Armate;Maschi;132;132;132
+2027;Gallaratese;Femmine;249;249;249
+2027;Gallaratese;Maschi;202;202;202
+2027;Garibaldi Repubblica;Femmine;26;26;26
+2027;Garibaldi Repubblica;Maschi;13;12;12
+2027;Ghisolfa;Femmine;85;85;85
+2027;Ghisolfa;Maschi;72;71;71
+2027;Giambellino;Femmine;156;154;154
+2027;Giambellino;Maschi;119;118;117
+2027;Gratosoglio - Ticinello;Femmine;99;99;99
+2027;Gratosoglio - Ticinello;Maschi;102;101;101
+2027;Greco;Femmine;68;68;68
+2027;Greco;Maschi;68;68;68
+2027;Guastalla;Femmine;68;68;68
+2027;Guastalla;Maschi;67;67;67
+2027;Isola;Femmine;94;94;94
+2027;Isola;Maschi;86;86;86
+2027;Lambrate;Femmine;47;47;47
+2027;Lambrate;Maschi;32;32;32
+2027;Lodi - Corvetto;Femmine;197;197;196
+2027;Lodi - Corvetto;Maschi;169;168;168
+2027;Lorenteggio;Femmine;84;83;83
+2027;Lorenteggio;Maschi;74;73;73
+2027;Loreto;Femmine;193;191;186
+2027;Loreto;Maschi;183;181;179
+2027;Maciachini - Maggiolina;Femmine;144;145;145
+2027;Maciachini - Maggiolina;Maschi;116;115;115
+2027;Magenta - S. Vittore;Femmine;80;79;79
+2027;Magenta - S. Vittore;Maschi;71;71;71
+2027;Maggiore - Musocco;Femmine;20;20;20
+2027;Maggiore - Musocco;Maschi;23;23;23
+2027;Mecenate;Femmine;135;134;134
+2027;Mecenate;Maschi;110;111;111
+2027;Navigli;Femmine;73;73;73
+2027;Navigli;Maschi;56;56;56
+2027;Niguarda - Cà Granda;Femmine;226;226;226
+2027;Niguarda - Cà Granda;Maschi;186;185;185
+2027;Ortomercato;Femmine;17;17;17
+2027;Ortomercato;Maschi;9;9;9
+2027;Padova;Femmine;187;183;182
+2027;Padova;Maschi;156;154;153
+2027;Pagano;Femmine;85;84;84
+2027;Pagano;Maschi;69;69;69
+2027;Parco Lambro - Cimiano;Femmine;127;127;127
+2027;Parco Lambro - Cimiano;Maschi;100;99;99
+2027;Parco Monlué - Ponte Lambro;Femmine;5;5;5
+2027;Parco Monlué - Ponte Lambro;Maschi;3;3;3
+2027;Porta Romana;Femmine;66;66;66
+2027;Porta Romana;Maschi;59;59;59
+2027;Portello;Femmine;41;41;41
+2027;Portello;Maschi;33;33;33
+2027;QT 8;Femmine;23;23;23
+2027;QT 8;Maschi;18;18;18
+2027;Quarto Cagnino;Femmine;40;40;40
+2027;Quarto Cagnino;Maschi;44;44;44
+2027;Quarto Oggiaro;Femmine;172;171;171
+2027;Quarto Oggiaro;Maschi;144;143;143
+2027;Quinto Romano;Femmine;20;20;20
+2027;Quinto Romano;Maschi;14;14;14
+2027;Ripamonti;Femmine;47;47;47
+2027;Ripamonti;Maschi;58;58;58
+2027;Rogoredo;Femmine;23;23;23
+2027;Rogoredo;Maschi;17;16;16
+2027;Ronchetto S/N;Femmine;67;67;67
+2027;Ronchetto S/N;Maschi;71;71;71
+2027;S. Cristoforo;Femmine;63;62;62
+2027;S. Cristoforo;Maschi;61;61;61
+2027;S. Siro;Femmine;44;44;44
+2027;S. Siro;Maschi;53;53;53
+2027;Sarpi;Femmine;146;146;145
+2027;Sarpi;Maschi;108;106;106
+2027;Scalo Romana;Femmine;25;26;26
+2027;Scalo Romana;Maschi;36;37;37
+2027;Selinunte;Femmine;136;136;136
+2027;Selinunte;Maschi;98;98;98
+2027;Stadera;Femmine;177;177;177
+2027;Stadera;Maschi;131;131;130
+2027;Tibaldi;Femmine;65;65;65
+2027;Tibaldi;Maschi;61;61;61
+2027;Ticinese;Femmine;78;78;78
+2027;Ticinese;Maschi;76;76;76
+2027;Tortona;Femmine;73;73;73
+2027;Tortona;Maschi;67;67;67
+2027;Trenno;Femmine;12;12;12
+2027;Trenno;Maschi;17;17;17
+2027;Umbria - Molise;Femmine;110;110;110
+2027;Umbria - Molise;Maschi;88;88;88
+2027;Vigentina;Femmine;72;72;72
+2027;Vigentina;Maschi;65;64;64
+2027;Villapizzone;Femmine;209;211;208
+2027;Villapizzone;Maschi;176;175;172
+2027;Vle Monza;Femmine;146;147;147
+2027;Vle Monza;Maschi;143;142;142
+2027;Washington;Femmine;146;146;146
+2027;Washington;Maschi;111;110;110
+2027;XXII Marzo;Femmine;162;162;162
+2027;XXII Marzo;Maschi;130;129;129
+2027;Quartieri residuali;Femmine;22;23;23
+2027;Quartieri residuali;Maschi;10;10;10
+2028;Adriano;Femmine;38;38;38
+2028;Adriano;Maschi;53;53;53
+2028;Affori;Femmine;107;107;107
+2028;Affori;Maschi;103;100;99
+2028;Baggio;Femmine;177;177;177
+2028;Baggio;Maschi;154;153;153
+2028;Bande Nere;Femmine;259;259;259
+2028;Bande Nere;Maschi;196;193;192
+2028;Barona;Femmine;126;126;126
+2028;Barona;Maschi;96;96;96
+2028;Bicocca;Femmine;13;13;13
+2028;Bicocca;Maschi;14;14;14
+2028;Bovisa;Femmine;49;49;49
+2028;Bovisa;Maschi;51;50;50
+2028;Bovisasca;Femmine;45;45;45
+2028;Bovisasca;Maschi;37;37;37
+2028;Brera;Femmine;83;81;81
+2028;Brera;Maschi;76;75;75
+2028;Bruzzano;Femmine;37;37;37
+2028;Bruzzano;Maschi;49;50;50
+2028;Buenos Aires - Venezia;Femmine;332;331;331
+2028;Buenos Aires - Venezia;Maschi;297;297;295
+2028;Centrale;Femmine;81;81;81
+2028;Centrale;Maschi;73;72;72
+2028;Città Studi;Femmine;197;195;195
+2028;Città Studi;Maschi;163;161;161
+2028;Comasina;Femmine;46;46;46
+2028;Comasina;Maschi;35;35;35
+2028;Corsica;Femmine;103;103;103
+2028;Corsica;Maschi;87;87;87
+2028;De Angeli - Monte Rosa;Femmine;106;106;106
+2028;De Angeli - Monte Rosa;Maschi;84;84;84
+2028;Dergano;Femmine;94;94;94
+2028;Dergano;Maschi;90;90;90
+2028;Duomo;Femmine;74;73;73
+2028;Duomo;Maschi;66;66;66
+2028;Ex OM - Morivione;Femmine;59;59;59
+2028;Ex OM - Morivione;Maschi;23;23;23
+2028;Farini;Femmine;5;6;6
+2028;Farini;Maschi;6;6;6
+2028;Forze Armate;Femmine;148;148;148
+2028;Forze Armate;Maschi;133;133;133
+2028;Gallaratese;Femmine;248;249;249
+2028;Gallaratese;Maschi;200;200;200
+2028;Garibaldi Repubblica;Femmine;28;28;28
+2028;Garibaldi Repubblica;Maschi;14;14;14
+2028;Ghisolfa;Femmine;81;80;80
+2028;Ghisolfa;Maschi;72;71;71
+2028;Giambellino;Femmine;149;149;149
+2028;Giambellino;Maschi;122;121;120
+2028;Gratosoglio - Ticinello;Femmine;99;99;99
+2028;Gratosoglio - Ticinello;Maschi;100;100;100
+2028;Greco;Femmine;67;67;67
+2028;Greco;Maschi;67;67;67
+2028;Guastalla;Femmine;70;70;70
+2028;Guastalla;Maschi;65;64;64
+2028;Isola;Femmine;97;96;96
+2028;Isola;Maschi;87;87;87
+2028;Lambrate;Femmine;48;47;47
+2028;Lambrate;Maschi;31;31;31
+2028;Lodi - Corvetto;Femmine;195;194;194
+2028;Lodi - Corvetto;Maschi;165;165;165
+2028;Lorenteggio;Femmine;84;84;84
+2028;Lorenteggio;Maschi;74;74;74
+2028;Loreto;Femmine;195;193;189
+2028;Loreto;Maschi;183;180;179
+2028;Maciachini - Maggiolina;Femmine;143;143;143
+2028;Maciachini - Maggiolina;Maschi;113;113;113
+2028;Magenta - S. Vittore;Femmine;84;83;83
+2028;Magenta - S. Vittore;Maschi;70;68;68
+2028;Maggiore - Musocco;Femmine;19;19;19
+2028;Maggiore - Musocco;Maschi;26;25;25
+2028;Mecenate;Femmine;133;133;133
+2028;Mecenate;Maschi;109;109;109
+2028;Navigli;Femmine;71;70;70
+2028;Navigli;Maschi;54;54;54
+2028;Niguarda - Cà Granda;Femmine;226;225;225
+2028;Niguarda - Cà Granda;Maschi;184;183;183
+2028;Ortomercato;Femmine;16;16;16
+2028;Ortomercato;Maschi;10;9;9
+2028;Padova;Femmine;186;182;181
+2028;Padova;Maschi;151;151;150
+2028;Pagano;Femmine;87;86;86
+2028;Pagano;Maschi;70;69;69
+2028;Parco Lambro - Cimiano;Femmine;128;128;128
+2028;Parco Lambro - Cimiano;Maschi;98;98;98
+2028;Parco Monlué - Ponte Lambro;Femmine;5;5;5
+2028;Parco Monlué - Ponte Lambro;Maschi;3;3;3
+2028;Porta Romana;Femmine;68;68;68
+2028;Porta Romana;Maschi;59;59;59
+2028;Portello;Femmine;41;41;41
+2028;Portello;Maschi;34;33;33
+2028;QT 8;Femmine;23;23;23
+2028;QT 8;Maschi;15;15;15
+2028;Quarto Cagnino;Femmine;38;38;38
+2028;Quarto Cagnino;Maschi;43;43;43
+2028;Quarto Oggiaro;Femmine;172;172;172
+2028;Quarto Oggiaro;Maschi;148;148;148
+2028;Quinto Romano;Femmine;18;18;18
+2028;Quinto Romano;Maschi;14;14;14
+2028;Ripamonti;Femmine;50;49;49
+2028;Ripamonti;Maschi;55;55;55
+2028;Rogoredo;Femmine;22;22;22
+2028;Rogoredo;Maschi;17;18;18
+2028;Ronchetto S/N;Femmine;64;63;63
+2028;Ronchetto S/N;Maschi;70;70;70
+2028;S. Cristoforo;Femmine;66;67;67
+2028;S. Cristoforo;Maschi;61;60;60
+2028;S. Siro;Femmine;43;43;43
+2028;S. Siro;Maschi;56;56;56
+2028;Sarpi;Femmine;147;146;145
+2028;Sarpi;Maschi;106;106;106
+2028;Scalo Romana;Femmine;26;26;26
+2028;Scalo Romana;Maschi;34;34;34
+2028;Selinunte;Femmine;133;131;131
+2028;Selinunte;Maschi;98;97;97
+2028;Stadera;Femmine;179;178;178
+2028;Stadera;Maschi;135;136;135
+2028;Tibaldi;Femmine;66;66;66
+2028;Tibaldi;Maschi;63;63;63
+2028;Ticinese;Femmine;82;82;82
+2028;Ticinese;Maschi;75;75;75
+2028;Tortona;Femmine;71;69;69
+2028;Tortona;Maschi;69;68;68
+2028;Trenno;Femmine;12;12;12
+2028;Trenno;Maschi;16;16;16
+2028;Umbria - Molise;Femmine;110;109;109
+2028;Umbria - Molise;Maschi;87;87;87
+2028;Vigentina;Femmine;73;73;73
+2028;Vigentina;Maschi;67;67;67
+2028;Villapizzone;Femmine;209;209;205
+2028;Villapizzone;Maschi;175;172;168
+2028;Vle Monza;Femmine;146;146;146
+2028;Vle Monza;Maschi;141;141;141
+2028;Washington;Femmine;145;145;145
+2028;Washington;Maschi;108;107;107
+2028;XXII Marzo;Femmine;162;162;162
+2028;XXII Marzo;Maschi;133;132;132
+2028;Quartieri residuali;Femmine;23;23;23
+2028;Quartieri residuali;Maschi;9;10;10
+2029;Adriano;Femmine;37;37;37
+2029;Adriano;Maschi;52;51;51
+2029;Affori;Femmine;107;106;106
+2029;Affori;Maschi;107;104;103
+2029;Baggio;Femmine;175;175;175
+2029;Baggio;Maschi;150;151;151
+2029;Bande Nere;Femmine;255;255;255
+2029;Bande Nere;Maschi;192;190;189
+2029;Barona;Femmine;128;127;127
+2029;Barona;Maschi;97;96;96
+2029;Bicocca;Femmine;17;17;17
+2029;Bicocca;Maschi;12;12;12
+2029;Bovisa;Femmine;49;49;49
+2029;Bovisa;Maschi;51;50;50
+2029;Bovisasca;Femmine;48;48;48
+2029;Bovisasca;Maschi;36;36;36
+2029;Brera;Femmine;82;81;81
+2029;Brera;Maschi;75;75;75
+2029;Bruzzano;Femmine;36;36;36
+2029;Bruzzano;Maschi;50;50;50
+2029;Buenos Aires - Venezia;Femmine;330;329;329
+2029;Buenos Aires - Venezia;Maschi;294;294;291
+2029;Centrale;Femmine;79;79;79
+2029;Centrale;Maschi;71;70;70
+2029;Città Studi;Femmine;193;193;193
+2029;Città Studi;Maschi;160;160;160
+2029;Comasina;Femmine;49;49;49
+2029;Comasina;Maschi;33;34;34
+2029;Corsica;Femmine;101;100;100
+2029;Corsica;Maschi;81;81;81
+2029;De Angeli - Monte Rosa;Femmine;104;104;104
+2029;De Angeli - Monte Rosa;Maschi;84;84;84
+2029;Dergano;Femmine;95;95;95
+2029;Dergano;Maschi;92;92;92
+2029;Duomo;Femmine;71;71;71
+2029;Duomo;Maschi;66;65;65
+2029;Ex OM - Morivione;Femmine;57;57;57
+2029;Ex OM - Morivione;Maschi;21;21;21
+2029;Farini;Femmine;5;5;5
+2029;Farini;Maschi;5;5;5
+2029;Forze Armate;Femmine;146;145;145
+2029;Forze Armate;Maschi;130;129;129
+2029;Gallaratese;Femmine;243;243;243
+2029;Gallaratese;Maschi;193;193;193
+2029;Garibaldi Repubblica;Femmine;26;26;26
+2029;Garibaldi Repubblica;Maschi;13;13;13
+2029;Ghisolfa;Femmine;80;80;80
+2029;Ghisolfa;Maschi;69;69;69
+2029;Giambellino;Femmine;150;148;148
+2029;Giambellino;Maschi;119;118;117
+2029;Gratosoglio - Ticinello;Femmine;97;98;98
+2029;Gratosoglio - Ticinello;Maschi;98;99;99
+2029;Greco;Femmine;65;65;65
+2029;Greco;Maschi;70;68;68
+2029;Guastalla;Femmine;72;70;70
+2029;Guastalla;Maschi;63;63;63
+2029;Isola;Femmine;98;96;96
+2029;Isola;Maschi;87;86;86
+2029;Lambrate;Femmine;48;47;47
+2029;Lambrate;Maschi;32;32;32
+2029;Lodi - Corvetto;Femmine;191;190;190
+2029;Lodi - Corvetto;Maschi;164;164;164
+2029;Lorenteggio;Femmine;81;81;81
+2029;Lorenteggio;Maschi;71;71;71
+2029;Loreto;Femmine;193;191;185
+2029;Loreto;Maschi;184;183;182
+2029;Maciachini - Maggiolina;Femmine;139;138;138
+2029;Maciachini - Maggiolina;Maschi;114;114;114
+2029;Magenta - S. Vittore;Femmine;84;84;84
+2029;Magenta - S. Vittore;Maschi;67;67;67
+2029;Maggiore - Musocco;Femmine;19;19;19
+2029;Maggiore - Musocco;Maschi;25;25;25
+2029;Mecenate;Femmine;130;130;130
+2029;Mecenate;Maschi;109;109;109
+2029;Navigli;Femmine;68;68;68
+2029;Navigli;Maschi;57;57;57
+2029;Niguarda - Cà Granda;Femmine;221;222;222
+2029;Niguarda - Cà Granda;Maschi;180;179;179
+2029;Ortomercato;Femmine;17;17;17
+2029;Ortomercato;Maschi;9;9;9
+2029;Padova;Femmine;186;180;180
+2029;Padova;Maschi;154;153;152
+2029;Pagano;Femmine;85;84;84
+2029;Pagano;Maschi;68;67;67
+2029;Parco Lambro - Cimiano;Femmine;125;125;125
+2029;Parco Lambro - Cimiano;Maschi;94;94;94
+2029;Parco Monlué - Ponte Lambro;Femmine;5;5;5
+2029;Parco Monlué - Ponte Lambro;Maschi;2;2;2
+2029;Porta Romana;Femmine;68;66;66
+2029;Porta Romana;Maschi;60;60;60
+2029;Portello;Femmine;41;40;40
+2029;Portello;Maschi;34;34;34
+2029;QT 8;Femmine;21;21;21
+2029;QT 8;Maschi;14;14;14
+2029;Quarto Cagnino;Femmine;38;38;38
+2029;Quarto Cagnino;Maschi;43;43;43
+2029;Quarto Oggiaro;Femmine;171;171;171
+2029;Quarto Oggiaro;Maschi;143;143;143
+2029;Quinto Romano;Femmine;19;19;19
+2029;Quinto Romano;Maschi;12;12;12
+2029;Ripamonti;Femmine;47;46;46
+2029;Ripamonti;Maschi;56;56;56
+2029;Rogoredo;Femmine;24;24;24
+2029;Rogoredo;Maschi;17;17;17
+2029;Ronchetto S/N;Femmine;64;64;64
+2029;Ronchetto S/N;Maschi;69;69;69
+2029;S. Cristoforo;Femmine;66;66;66
+2029;S. Cristoforo;Maschi;60;60;60
+2029;S. Siro;Femmine;46;46;46
+2029;S. Siro;Maschi;56;56;56
+2029;Sarpi;Femmine;140;139;138
+2029;Sarpi;Maschi;108;107;107
+2029;Scalo Romana;Femmine;27;25;25
+2029;Scalo Romana;Maschi;35;35;35
+2029;Selinunte;Femmine;130;130;130
+2029;Selinunte;Maschi;96;95;95
+2029;Stadera;Femmine;175;175;175
+2029;Stadera;Maschi;132;131;131
+2029;Tibaldi;Femmine;65;65;65
+2029;Tibaldi;Maschi;61;61;61
+2029;Ticinese;Femmine;78;78;78
+2029;Ticinese;Maschi;72;72;72
+2029;Tortona;Femmine;68;68;68
+2029;Tortona;Maschi;65;64;64
+2029;Trenno;Femmine;13;13;13
+2029;Trenno;Maschi;15;15;15
+2029;Umbria - Molise;Femmine;108;107;107
+2029;Umbria - Molise;Maschi;85;85;85
+2029;Vigentina;Femmine;73;73;73
+2029;Vigentina;Maschi;64;64;64
+2029;Villapizzone;Femmine;202;201;201
+2029;Villapizzone;Maschi;174;172;169
+2029;Vle Monza;Femmine;145;145;145
+2029;Vle Monza;Maschi;143;143;143
+2029;Washington;Femmine;143;140;140
+2029;Washington;Maschi;107;104;104
+2029;XXII Marzo;Femmine;159;158;158
+2029;XXII Marzo;Maschi;133;131;131
+2029;Quartieri residuali;Femmine;24;24;24
+2029;Quartieri residuali;Maschi;11;11;11
+2030;Adriano;Femmine;40;40;40
+2030;Adriano;Maschi;53;52;52
+2030;Affori;Femmine;107;107;107
+2030;Affori;Maschi;103;100;99
+2030;Baggio;Femmine;176;177;177
+2030;Baggio;Maschi;147;147;147
+2030;Bande Nere;Femmine;252;252;252
+2030;Bande Nere;Maschi;187;187;186
+2030;Barona;Femmine;130;130;130
+2030;Barona;Maschi;95;95;95
+2030;Bicocca;Femmine;14;14;14
+2030;Bicocca;Maschi;13;12;12
+2030;Bovisa;Femmine;50;50;50
+2030;Bovisa;Maschi;51;49;49
+2030;Bovisasca;Femmine;47;47;47
+2030;Bovisasca;Maschi;40;40;40
+2030;Brera;Femmine;82;82;82
+2030;Brera;Maschi;73;73;73
+2030;Bruzzano;Femmine;36;36;36
+2030;Bruzzano;Maschi;49;49;49
+2030;Buenos Aires - Venezia;Femmine;330;329;329
+2030;Buenos Aires - Venezia;Maschi;296;293;290
+2030;Centrale;Femmine;77;77;77
+2030;Centrale;Maschi;71;71;71
+2030;Città Studi;Femmine;193;192;192
+2030;Città Studi;Maschi;157;157;157
+2030;Comasina;Femmine;47;46;46
+2030;Comasina;Maschi;36;36;36
+2030;Corsica;Femmine;98;98;98
+2030;Corsica;Maschi;84;84;84
+2030;De Angeli - Monte Rosa;Femmine;104;103;103
+2030;De Angeli - Monte Rosa;Maschi;81;81;81
+2030;Dergano;Femmine;97;95;95
+2030;Dergano;Maschi;95;94;94
+2030;Duomo;Femmine;73;73;73
+2030;Duomo;Maschi;66;63;63
+2030;Ex OM - Morivione;Femmine;60;60;60
+2030;Ex OM - Morivione;Maschi;24;24;24
+2030;Farini;Femmine;6;6;6
+2030;Farini;Maschi;6;6;6
+2030;Forze Armate;Femmine;147;147;147
+2030;Forze Armate;Maschi;133;131;131
+2030;Gallaratese;Femmine;241;240;240
+2030;Gallaratese;Maschi;186;186;186
+2030;Garibaldi Repubblica;Femmine;26;26;26
+2030;Garibaldi Repubblica;Maschi;14;14;14
+2030;Ghisolfa;Femmine;81;81;81
+2030;Ghisolfa;Maschi;70;71;71
+2030;Giambellino;Femmine;146;145;145
+2030;Giambellino;Maschi;118;117;116
+2030;Gratosoglio - Ticinello;Femmine;97;97;97
+2030;Gratosoglio - Ticinello;Maschi;99;98;98
+2030;Greco;Femmine;65;65;65
+2030;Greco;Maschi;67;67;67
+2030;Guastalla;Femmine;73;73;73
+2030;Guastalla;Maschi;63;63;63
+2030;Isola;Femmine;98;97;97
+2030;Isola;Maschi;89;89;89
+2030;Lambrate;Femmine;45;44;44
+2030;Lambrate;Maschi;31;31;31
+2030;Lodi - Corvetto;Femmine;190;188;188
+2030;Lodi - Corvetto;Maschi;163;163;163
+2030;Lorenteggio;Femmine;81;80;80
+2030;Lorenteggio;Maschi;73;74;74
+2030;Loreto;Femmine;196;191;185
+2030;Loreto;Maschi;183;181;180
+2030;Maciachini - Maggiolina;Femmine;140;140;140
+2030;Maciachini - Maggiolina;Maschi;115;113;113
+2030;Magenta - S. Vittore;Femmine;80;80;80
+2030;Magenta - S. Vittore;Maschi;66;66;66
+2030;Maggiore - Musocco;Femmine;20;20;20
+2030;Maggiore - Musocco;Maschi;28;28;28
+2030;Mecenate;Femmine;128;129;129
+2030;Mecenate;Maschi;104;103;103
+2030;Navigli;Femmine;70;70;70
+2030;Navigli;Maschi;54;54;54
+2030;Niguarda - Cà Granda;Femmine;221;221;221
+2030;Niguarda - Cà Granda;Maschi;182;181;181
+2030;Ortomercato;Femmine;15;15;15
+2030;Ortomercato;Maschi;10;10;10
+2030;Padova;Femmine;183;178;177
+2030;Padova;Maschi;151;148;147
+2030;Pagano;Femmine;85;85;85
+2030;Pagano;Maschi;66;65;65
+2030;Parco Lambro - Cimiano;Femmine;122;121;121
+2030;Parco Lambro - Cimiano;Maschi;93;93;93
+2030;Parco Monlué - Ponte Lambro;Femmine;5;5;5
+2030;Parco Monlué - Ponte Lambro;Maschi;2;2;2
+2030;Porta Romana;Femmine;71;69;69
+2030;Porta Romana;Maschi;59;59;59
+2030;Portello;Femmine;39;38;38
+2030;Portello;Maschi;35;35;35
+2030;QT 8;Femmine;22;22;22
+2030;QT 8;Maschi;14;14;14
+2030;Quarto Cagnino;Femmine;40;40;40
+2030;Quarto Cagnino;Maschi;44;44;44
+2030;Quarto Oggiaro;Femmine;168;169;169
+2030;Quarto Oggiaro;Maschi;144;144;144
+2030;Quinto Romano;Femmine;20;19;19
+2030;Quinto Romano;Maschi;11;11;11
+2030;Ripamonti;Femmine;47;48;48
+2030;Ripamonti;Maschi;56;56;56
+2030;Rogoredo;Femmine;22;22;22
+2030;Rogoredo;Maschi;17;17;17
+2030;Ronchetto S/N;Femmine;62;62;62
+2030;Ronchetto S/N;Maschi;69;69;69
+2030;S. Cristoforo;Femmine;65;64;64
+2030;S. Cristoforo;Maschi;62;63;63
+2030;S. Siro;Femmine;45;45;45
+2030;S. Siro;Maschi;53;53;53
+2030;Sarpi;Femmine;141;140;139
+2030;Sarpi;Maschi;106;103;103
+2030;Scalo Romana;Femmine;25;25;25
+2030;Scalo Romana;Maschi;39;39;39
+2030;Selinunte;Femmine;129;129;129
+2030;Selinunte;Maschi;94;93;93
+2030;Stadera;Femmine;172;172;172
+2030;Stadera;Maschi;129;129;129
+2030;Tibaldi;Femmine;67;67;67
+2030;Tibaldi;Maschi;63;63;63
+2030;Ticinese;Femmine;78;78;78
+2030;Ticinese;Maschi;71;71;71
+2030;Tortona;Femmine;68;68;68
+2030;Tortona;Maschi;66;66;66
+2030;Trenno;Femmine;12;12;12
+2030;Trenno;Maschi;15;15;15
+2030;Umbria - Molise;Femmine;107;106;106
+2030;Umbria - Molise;Maschi;82;82;82
+2030;Vigentina;Femmine;74;74;74
+2030;Vigentina;Maschi;64;64;64
+2030;Villapizzone;Femmine;203;201;201
+2030;Villapizzone;Maschi;177;177;174
+2030;Vle Monza;Femmine;148;148;148
+2030;Vle Monza;Maschi;143;143;143
+2030;Washington;Femmine;142;141;141
+2030;Washington;Maschi;107;106;106
+2030;XXII Marzo;Femmine;159;159;159
+2030;XXII Marzo;Maschi;131;130;130
+2030;Quartieri residuali;Femmine;24;24;24
+2030;Quartieri residuali;Maschi;10;11;11
+2031;Adriano;Femmine;41;41;41
+2031;Adriano;Maschi;52;52;52
+2031;Affori;Femmine;102;101;101
+2031;Affori;Maschi;104;101;100
+2031;Baggio;Femmine;174;174;174
+2031;Baggio;Maschi;145;145;145
+2031;Bande Nere;Femmine;247;246;246
+2031;Bande Nere;Maschi;180;180;179
+2031;Barona;Femmine;128;128;128
+2031;Barona;Maschi;94;94;94
+2031;Bicocca;Femmine;14;15;15
+2031;Bicocca;Maschi;10;10;10
+2031;Bovisa;Femmine;50;50;50
+2031;Bovisa;Maschi;50;50;50
+2031;Bovisasca;Femmine;47;47;47
+2031;Bovisasca;Maschi;41;39;39
+2031;Brera;Femmine;81;80;80
+2031;Brera;Maschi;71;71;71
+2031;Bruzzano;Femmine;38;38;38
+2031;Bruzzano;Maschi;51;51;51
+2031;Buenos Aires - Venezia;Femmine;330;327;327
+2031;Buenos Aires - Venezia;Maschi;288;288;285
+2031;Centrale;Femmine;80;80;80
+2031;Centrale;Maschi;74;74;74
+2031;Città Studi;Femmine;189;188;188
+2031;Città Studi;Maschi;154;152;152
+2031;Comasina;Femmine;45;44;44
+2031;Comasina;Maschi;35;35;35
+2031;Corsica;Femmine;99;98;98
+2031;Corsica;Maschi;81;81;81
+2031;De Angeli - Monte Rosa;Femmine;103;102;102
+2031;De Angeli - Monte Rosa;Maschi;81;81;81
+2031;Dergano;Femmine;95;94;94
+2031;Dergano;Maschi;90;88;88
+2031;Duomo;Femmine;72;71;71
+2031;Duomo;Maschi;62;62;62
+2031;Ex OM - Morivione;Femmine;61;61;61
+2031;Ex OM - Morivione;Maschi;24;24;24
+2031;Farini;Femmine;5;5;5
+2031;Farini;Maschi;5;5;5
+2031;Forze Armate;Femmine;148;148;148
+2031;Forze Armate;Maschi;132;132;132
+2031;Gallaratese;Femmine;236;236;236
+2031;Gallaratese;Maschi;178;178;178
+2031;Garibaldi Repubblica;Femmine;25;25;25
+2031;Garibaldi Repubblica;Maschi;13;14;14
+2031;Ghisolfa;Femmine;79;79;79
+2031;Ghisolfa;Maschi;72;72;72
+2031;Giambellino;Femmine;144;144;144
+2031;Giambellino;Maschi;116;114;113
+2031;Gratosoglio - Ticinello;Femmine;95;95;95
+2031;Gratosoglio - Ticinello;Maschi;98;98;98
+2031;Greco;Femmine;64;63;63
+2031;Greco;Maschi;67;67;67
+2031;Guastalla;Femmine;69;69;69
+2031;Guastalla;Maschi;62;61;61
+2031;Isola;Femmine;95;96;96
+2031;Isola;Maschi;90;89;89
+2031;Lambrate;Femmine;44;45;45
+2031;Lambrate;Maschi;33;32;32
+2031;Lodi - Corvetto;Femmine;186;183;183
+2031;Lodi - Corvetto;Maschi;161;159;159
+2031;Lorenteggio;Femmine;79;79;79
+2031;Lorenteggio;Maschi;70;69;69
+2031;Loreto;Femmine;191;188;182
+2031;Loreto;Maschi;184;182;181
+2031;Maciachini - Maggiolina;Femmine;138;138;138
+2031;Maciachini - Maggiolina;Maschi;114;114;114
+2031;Magenta - S. Vittore;Femmine;81;79;79
+2031;Magenta - S. Vittore;Maschi;68;68;68
+2031;Maggiore - Musocco;Femmine;19;19;19
+2031;Maggiore - Musocco;Maschi;29;27;27
+2031;Mecenate;Femmine;126;125;125
+2031;Mecenate;Maschi;104;104;104
+2031;Navigli;Femmine;70;70;70
+2031;Navigli;Maschi;53;53;53
+2031;Niguarda - Cà Granda;Femmine;217;217;217
+2031;Niguarda - Cà Granda;Maschi;176;175;175
+2031;Ortomercato;Femmine;16;16;16
+2031;Ortomercato;Maschi;10;10;10
+2031;Padova;Femmine;183;178;177
+2031;Padova;Maschi;148;146;146
+2031;Pagano;Femmine;83;82;82
+2031;Pagano;Maschi;63;63;63
+2031;Parco Lambro - Cimiano;Femmine;119;118;118
+2031;Parco Lambro - Cimiano;Maschi;91;90;90
+2031;Parco Monlué - Ponte Lambro;Femmine;5;5;5
+2031;Parco Monlué - Ponte Lambro;Maschi;2;2;2
+2031;Porta Romana;Femmine;66;66;66
+2031;Porta Romana;Maschi;55;55;55
+2031;Portello;Femmine;40;39;39
+2031;Portello;Maschi;36;36;36
+2031;QT 8;Femmine;21;21;21
+2031;QT 8;Maschi;13;13;13
+2031;Quarto Cagnino;Femmine;40;40;40
+2031;Quarto Cagnino;Maschi;42;42;42
+2031;Quarto Oggiaro;Femmine;166;164;164
+2031;Quarto Oggiaro;Maschi;143;143;143
+2031;Quinto Romano;Femmine;18;18;18
+2031;Quinto Romano;Maschi;10;10;10
+2031;Ripamonti;Femmine;48;48;48
+2031;Ripamonti;Maschi;56;56;56
+2031;Rogoredo;Femmine;23;23;23
+2031;Rogoredo;Maschi;16;18;18
+2031;Ronchetto S/N;Femmine;64;62;62
+2031;Ronchetto S/N;Maschi;67;67;67
+2031;S. Cristoforo;Femmine;67;67;67
+2031;S. Cristoforo;Maschi;63;62;62
+2031;S. Siro;Femmine;46;46;46
+2031;S. Siro;Maschi;51;51;51
+2031;Sarpi;Femmine;138;138;137
+2031;Sarpi;Maschi;109;107;107
+2031;Scalo Romana;Femmine;26;26;26
+2031;Scalo Romana;Maschi;38;38;38
+2031;Selinunte;Femmine;125;125;125
+2031;Selinunte;Maschi;96;93;93
+2031;Stadera;Femmine;169;169;169
+2031;Stadera;Maschi;129;127;127
+2031;Tibaldi;Femmine;65;65;65
+2031;Tibaldi;Maschi;62;61;61
+2031;Ticinese;Femmine;76;76;76
+2031;Ticinese;Maschi;73;73;73
+2031;Tortona;Femmine;67;67;67
+2031;Tortona;Maschi;65;65;65
+2031;Trenno;Femmine;13;13;13
+2031;Trenno;Maschi;16;16;16
+2031;Umbria - Molise;Femmine;104;104;104
+2031;Umbria - Molise;Maschi;81;81;81
+2031;Vigentina;Femmine;72;72;72
+2031;Vigentina;Maschi;63;63;63
+2031;Villapizzone;Femmine;199;198;198
+2031;Villapizzone;Maschi;177;172;170
+2031;Vle Monza;Femmine;149;148;148
+2031;Vle Monza;Maschi;141;142;142
+2031;Washington;Femmine;138;136;136
+2031;Washington;Maschi;106;105;105
+2031;XXII Marzo;Femmine;160;158;158
+2031;XXII Marzo;Maschi;129;128;128
+2031;Quartieri residuali;Femmine;24;24;24
+2031;Quartieri residuali;Maschi;9;9;9
+2032;Adriano;Femmine;40;39;39
+2032;Adriano;Maschi;50;49;49
+2032;Affori;Femmine;103;103;103
+2032;Affori;Maschi;103;102;101
+2032;Baggio;Femmine;170;170;170
+2032;Baggio;Maschi;140;140;140
+2032;Bande Nere;Femmine;239;237;237
+2032;Bande Nere;Maschi;173;173;172
+2032;Barona;Femmine;127;127;127
+2032;Barona;Maschi;92;92;92
+2032;Bicocca;Femmine;14;14;14
+2032;Bicocca;Maschi;12;13;13
+2032;Bovisa;Femmine;48;48;48
+2032;Bovisa;Maschi;49;49;49
+2032;Bovisasca;Femmine;46;46;46
+2032;Bovisasca;Maschi;39;39;39
+2032;Brera;Femmine;84;83;83
+2032;Brera;Maschi;68;67;67
+2032;Bruzzano;Femmine;37;36;36
+2032;Bruzzano;Maschi;49;50;50
+2032;Buenos Aires - Venezia;Femmine;329;328;327
+2032;Buenos Aires - Venezia;Maschi;288;289;285
+2032;Centrale;Femmine;79;78;78
+2032;Centrale;Maschi;71;71;71
+2032;Città Studi;Femmine;188;187;187
+2032;Città Studi;Maschi;152;149;149
+2032;Comasina;Femmine;44;43;43
+2032;Comasina;Maschi;37;35;35
+2032;Corsica;Femmine;97;96;96
+2032;Corsica;Maschi;80;79;79
+2032;De Angeli - Monte Rosa;Femmine;101;101;101
+2032;De Angeli - Monte Rosa;Maschi;81;80;80
+2032;Dergano;Femmine;94;92;92
+2032;Dergano;Maschi;92;91;91
+2032;Duomo;Femmine;71;71;71
+2032;Duomo;Maschi;62;61;61
+2032;Ex OM - Morivione;Femmine;60;60;60
+2032;Ex OM - Morivione;Maschi;23;23;23
+2032;Farini;Femmine;6;5;5
+2032;Farini;Maschi;6;7;7
+2032;Forze Armate;Femmine;147;147;147
+2032;Forze Armate;Maschi;129;128;128
+2032;Gallaratese;Femmine;229;228;228
+2032;Gallaratese;Maschi;169;169;169
+2032;Garibaldi Repubblica;Femmine;26;26;26
+2032;Garibaldi Repubblica;Maschi;13;13;13
+2032;Ghisolfa;Femmine;80;80;80
+2032;Ghisolfa;Maschi;70;70;70
+2032;Giambellino;Femmine;142;139;139
+2032;Giambellino;Maschi;113;113;112
+2032;Gratosoglio - Ticinello;Femmine;93;93;93
+2032;Gratosoglio - Ticinello;Maschi;95;95;95
+2032;Greco;Femmine;65;64;64
+2032;Greco;Maschi;68;67;67
+2032;Guastalla;Femmine;68;68;68
+2032;Guastalla;Maschi;62;62;62
+2032;Isola;Femmine;96;94;94
+2032;Isola;Maschi;92;89;89
+2032;Lambrate;Femmine;45;43;43
+2032;Lambrate;Maschi;32;31;31
+2032;Lodi - Corvetto;Femmine;181;180;180
+2032;Lodi - Corvetto;Maschi;159;158;158
+2032;Lorenteggio;Femmine;80;79;79
+2032;Lorenteggio;Maschi;69;69;69
+2032;Loreto;Femmine;190;187;181
+2032;Loreto;Maschi;187;183;184
+2032;Maciachini - Maggiolina;Femmine;139;139;139
+2032;Maciachini - Maggiolina;Maschi;113;113;113
+2032;Magenta - S. Vittore;Femmine;81;79;79
+2032;Magenta - S. Vittore;Maschi;68;68;68
+2032;Maggiore - Musocco;Femmine;19;19;19
+2032;Maggiore - Musocco;Maschi;28;28;28
+2032;Mecenate;Femmine;126;125;125
+2032;Mecenate;Maschi;106;104;104
+2032;Navigli;Femmine;69;68;68
+2032;Navigli;Maschi;53;53;53
+2032;Niguarda - Cà Granda;Femmine;220;218;218
+2032;Niguarda - Cà Granda;Maschi;174;173;173
+2032;Ortomercato;Femmine;16;16;16
+2032;Ortomercato;Maschi;9;9;9
+2032;Padova;Femmine;176;171;170
+2032;Padova;Maschi;146;144;144
+2032;Pagano;Femmine;81;80;80
+2032;Pagano;Maschi;62;60;60
+2032;Parco Lambro - Cimiano;Femmine;117;117;117
+2032;Parco Lambro - Cimiano;Maschi;88;88;88
+2032;Parco Monlué - Ponte Lambro;Femmine;5;5;5
+2032;Parco Monlué - Ponte Lambro;Maschi;2;2;2
+2032;Porta Romana;Femmine;67;65;65
+2032;Porta Romana;Maschi;53;53;53
+2032;Portello;Femmine;40;40;40
+2032;Portello;Maschi;32;32;32
+2032;QT 8;Femmine;19;19;19
+2032;QT 8;Maschi;14;14;14
+2032;Quarto Cagnino;Femmine;40;40;40
+2032;Quarto Cagnino;Maschi;40;40;40
+2032;Quarto Oggiaro;Femmine;163;163;163
+2032;Quarto Oggiaro;Maschi;144;144;144
+2032;Quinto Romano;Femmine;17;18;18
+2032;Quinto Romano;Maschi;12;12;12
+2032;Ripamonti;Femmine;48;47;47
+2032;Ripamonti;Maschi;56;56;56
+2032;Rogoredo;Femmine;22;22;22
+2032;Rogoredo;Maschi;19;17;17
+2032;Ronchetto S/N;Femmine;60;60;60
+2032;Ronchetto S/N;Maschi;64;63;63
+2032;S. Cristoforo;Femmine;66;66;66
+2032;S. Cristoforo;Maschi;62;62;62
+2032;S. Siro;Femmine;45;45;45
+2032;S. Siro;Maschi;53;52;52
+2032;Sarpi;Femmine;135;135;134
+2032;Sarpi;Maschi;106;103;103
+2032;Scalo Romana;Femmine;24;23;23
+2032;Scalo Romana;Maschi;38;38;38
+2032;Selinunte;Femmine;122;122;122
+2032;Selinunte;Maschi;98;97;97
+2032;Stadera;Femmine;166;166;166
+2032;Stadera;Maschi;129;127;127
+2032;Tibaldi;Femmine;64;65;65
+2032;Tibaldi;Maschi;59;58;58
+2032;Ticinese;Femmine;77;77;77
+2032;Ticinese;Maschi;70;70;70
+2032;Tortona;Femmine;65;65;65
+2032;Tortona;Maschi;65;65;65
+2032;Trenno;Femmine;13;13;13
+2032;Trenno;Maschi;15;15;15
+2032;Umbria - Molise;Femmine;101;101;101
+2032;Umbria - Molise;Maschi;81;81;81
+2032;Vigentina;Femmine;71;71;71
+2032;Vigentina;Maschi;63;63;63
+2032;Villapizzone;Femmine;198;196;197
+2032;Villapizzone;Maschi;179;173;171
+2032;Vle Monza;Femmine;146;146;146
+2032;Vle Monza;Maschi;139;138;138
+2032;Washington;Femmine;135;135;135
+2032;Washington;Maschi;103;103;103
+2032;XXII Marzo;Femmine;157;156;156
+2032;XXII Marzo;Maschi;127;127;127
+2032;Quartieri residuali;Femmine;23;23;23
+2032;Quartieri residuali;Maschi;10;9;9
